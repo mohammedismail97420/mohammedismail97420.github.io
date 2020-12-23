@@ -80,6 +80,10 @@ body {
   padding: 20px;
 }
 
+.social-footer {
+  color: #1d6fa5;
+}
+
 /*ARROW LINK*/
 #down-arrow {
   /*position: absolute;
@@ -91,6 +95,16 @@ body {
 
 #down-arrow a {
   color: white;
+}
+#up-arrow {
+  margin-top: 50px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+#up-arrow a {
+  color: #1d6fa5;
+  margin-top: 50px;
+  font-size: 30px;
 }
 
 /*CONTENT*/
@@ -274,4 +288,8 @@ h4 {
 
 .white-text {
   color: white;
+}
+
+.contact-me {
+  background-color: white;
 }
