@@ -209,7 +209,7 @@ footer {
   background: #3498db;
 }
 .background-alt {
-  background: #f2f2f5;
+  background: #3498db2c;
 }
 #lead {
   position: relative;
@@ -369,7 +369,6 @@ footer {
 .vtimeline-point {
   position: relative;
   display: block;
-  vertical-align: top;
   margin-bottom: 30px;
 }
 .vtimeline-icon {
@@ -503,8 +502,8 @@ footer {
   display: inline-block;
   margin: 7px;
   padding: 5px 10px;
-  color: #374054;
-  background: #e4e4ea;
+  color: #ffffff;
+  background: #3498db;
   list-style: none;
   cursor: default;
   font-size: 1.2em;
