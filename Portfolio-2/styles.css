@@ -728,3 +728,11 @@ footer {
     padding: 5px 10px;
   }
 }
+
+.profile-img {
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 50px;
+}
