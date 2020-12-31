@@ -1,6 +1,7 @@
-Portfolio webages 
+Portfolio Webpages 
 
 This repository hosts a technical portfolio built using HTML and CSS
+
 Check below links for live demo:
 
 https://mohammedismail97420.github.io/Portfolio-1/
