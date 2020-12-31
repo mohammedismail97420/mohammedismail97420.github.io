@@ -38,7 +38,6 @@ body {
   height: 100vh; /*height to 100% of view height*/
   background: #31b0d5; /*background color to blue*/
   margin-bottom: 0; /*no bottom margin*/
-
   display: flex;
   flex-direction: column;
 }
@@ -49,7 +48,6 @@ body {
   font-size: 2em;
   color: white;
   text-align: center;
-  padding-top: 150px;
 }
 
 .jumbotron-text h1 {
@@ -293,4 +291,12 @@ h4 {
 
 .contact-me {
   background-color: white;
+}
+
+.profile-img {
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-top: 100px;
 }
