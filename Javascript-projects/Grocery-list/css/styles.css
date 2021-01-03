@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: cursive, sans-serif;
+}
+
+body {
+  background: url(../Assets/background.jpg), black;
+  background-repeat: repeat;
+  background-size: 25%;
+}
+
+input,
+button,
+button:focus,
+button:active {
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+.heading {
+  color: rgb(83, 83, 83);
+}
+
+.list-container {
+  max-width: 700px;
+  margin: auto;
+  margin-top: 50px;
+  background-color: rgb(152, 255, 255);
+  min-height: 200px;
+  border-radius: 10px;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+}
+
+.input-container {
+  position: relative;
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.list-input {
+  width: 100%;
+  padding: 10px 15px;
+  border-radius: 50px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.add-btn {
+  background: transparent;
+  position: absolute;
+  top: 50%;
+  right: 0px;
+  transform: translateY(-50%);
+  height: 60px;
+  width: 60px;
+  background: linear-gradient(0deg, #ddd, #fff);
+  text-align: center;
+  border-radius: 50%;
+  box-sizing: border-box;
+  padding: 6px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  transition: 0.2s;
+}
+
+.add-btn:focus {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.add-btn:active {
+  transform: scale(0.9) translateY(-50%);
+  transform-origin: top;
+  transition: all ease 0.2s;
+}
+
+.add-btn i {
+  color: rgb(2, 139, 133);
+}
+
+.items-container {
+  margin: auto;
+  margin-top: 50px;
+  width: 90%;
+}
+
+.list {
+  background: white;
+  width: 100%;
+  padding: 15px;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.list #serial {
+  width: 15%;
+}
+
+.list #title {
+  width: 50%;
+}
+
+.remove-btn {
+  background: white;
+  font-weight: bold;
+  color: red;
+  font-size: 25px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  right: 10px;
+  top: 60%;
+  transform: translateY(-100%);
+}
+
+.error::placeholder {
+  color: red;
+}
+
+.clearbtn {
+  background: rgb(255, 0, 0);
+  color: white;
+  border-radius: 50px;
+  padding: 10px 15px;
+  margin: 25px 0;
+  float: right;
+  margin-right: 50px;
+}
+
+@media (max-width: 500px) {
+  .list-container {
+    width: 100%;
+    margin-top: 0;
+    min-height: 100vh;
+    margin-bottom: 0;
+  }
+}

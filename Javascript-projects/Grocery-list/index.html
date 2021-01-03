@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1"
+      crossorigin="anonymous"
+    />
+    <!-- Fontawseome CSS -->
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
+      integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp"
+      crossorigin="anonymous"
+    />
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="Assets/favicon.png" type="image/x-icon" />
+    <!-- CSS stylesheet -->
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>Grocery List</title>
+  </head>
+  <body>
+    <!-- Main container -->
+    <div class="list-container shadow-lg">
+      <h1 class="text-center pt-4 heading">Grocery List App</h1>
+      <!-- Input container with button and input to add groceries -->
+      <div class="input-container">
+        <input
+          type="text"
+          id="title"
+          class="list-input"
+          placeholder="Enter item"
+        />
+        <button id="add" class="add-btn">
+          <i class="fas fa-2x fa-plus"></i>
+        </button>
+      </div>
+      <button class="clearbtn" onclick="clearStorage()">Clear all</button>
+      <!-- Lists of groceries -->
+      <div id="list-container" class="items-container"></div>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+      crossorigin="anonymous"
+    ></script>
+    <!-- JavaScript -->
+    <script src="javascript/main.js"></script>
+  </body>
+</html>
