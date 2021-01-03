@@ -145,7 +145,8 @@ button:active {
   }
 }
 
-.add-to-btn {
+.add-button {
   position: absolute;
-  bottom: 0;
+  top: 1px;
+  left: 1px;
 }
