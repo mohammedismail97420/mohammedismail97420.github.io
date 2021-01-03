@@ -144,3 +144,9 @@ button:active {
     background: #98ffff;
   }
 }
+
+.add-button {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+}
