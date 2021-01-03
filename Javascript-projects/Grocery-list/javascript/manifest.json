@@ -1,7 +1,6 @@
 {
-  "short_name": "Grocery App",
-  "name": "Grocery list App",
-  "description": "A basic web app to store all your grocery list",
+  "short_name": "Test App",
+  "name": "Web Test App",
   "icons": [
     {
       "src": "../Assets/favicon192.png",

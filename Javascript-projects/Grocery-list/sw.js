@@ -1,3 +1,1 @@
-self.addEventListener("fetch", function (event) {
-  // Perform install steps
-});
+self.addEventListener('fetch', function(event) {});
