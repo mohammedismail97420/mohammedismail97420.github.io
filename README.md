@@ -4,9 +4,9 @@ This repository hosts a technical portfolio built using HTML and CSS
 
 Check below links for live demo:
 
-<a href="https://mohammedismail97420.github.io/Portfolio-1/">https://mohammedismail97420.github.io/Portfolio-1/</a>
-<a href="https://mohammedismail97420.github.io/Portfolio-2/">https://mohammedismail97420.github.io/Portfolio-2/</a>
-<a href="https://mohammedismail97420.github.io/Portfolio-3/">https://mohammedismail97420.github.io/Portfolio-3/</a>
+<a href="https://mohammedismail97420.github.io/Portfolio-1/">https://mohammedismail97420.github.io/Portfolio-1/</a><br>
+<a href="https://mohammedismail97420.github.io/Portfolio-2/">https://mohammedismail97420.github.io/Portfolio-2/</a><br>
+<a href="https://mohammedismail97420.github.io/Portfolio-3/">https://mohammedismail97420.github.io/Portfolio-3/</a><br>
 <a href="https://mohammedismail97420.github.io/Portfolio-4/">https://mohammedismail97420.github.io/Portfolio-4/</a>
 
 <h3><b>2. A simple Grocery List App</b></h3>
