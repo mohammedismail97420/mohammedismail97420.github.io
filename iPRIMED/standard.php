@@ -1,0 +1,681 @@
+<?php
+header('Set-Cookie: cross-site-cookie=name; SameSite=None; Secure');
+header('Access-Control-Allow-Origin: https://extranet.qa.com');
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content=" Take courses in business, programming, technological everything in one place. Prepare yourself for the future. ">
+    <meta name="keywords"
+        content="AWS, Amazon, Project Management, Excel, C, C++,Cobol, Devops, CompTIA, Professional Development, Managing Successful Programme, MSP, RedHat, QA, Virtual Classroom, Extended Classroom, Virtual seat in a live Class">
+    <meta name="robots" content="index, follow">
+    <title> iPRIMED | Standard (Off the Shelf) Technical Training program</title>
+
+
+
+    <!--Links-->
+
+
+
+
+    <link rel="icon" href="Assets/Images/favicon.png" type="image/png">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+    </script>
+    <script src="https://kit.fontawesome.com/5e6131c1bd.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+    <script src="javascript/main_ipr.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162925337-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-162925337-1');
+    </script>
+
+    <script>
+
+    </script>
+
+
+
+</head>
+
+
+
+<body>
+
+    <?php include "header.html" ?>
+
+
+
+    <div class="img-text-div">
+        <div class="overlay-img">
+            <img class="img-fluid w-100 qacarousel" src="Assets/Images/qa1.png" alt="">
+        </div>
+        <h1 class="standtext">Standard (Off the Shelf) Technical Training programs</h1>
+    </div>
+    <div class="container mt-3 mb-5">
+
+
+
+        <div class="row mt-5">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xl-6" style="text-align:justify">
+                <p>QA (<a style="text-decoration:none" href="https://www.qa.com">www.qa.com</a>) started in 1985 and is
+                    UK’s leading digital education and skills providers with a
+                    presence in
+                    technical, management and other associated professional skills. </p>
+                <p>We have tied up with QA to offer its vast number of “Virtual Classroom” courses (formerly known as
+                    AFA – Attend from Anywhere). The delivery model is unique, where you book a “virtual seat” in a
+                    physical class room! It’s like an extended class room where your class mate could be from anywhere
+                    in the world, creating a truly Global experience. QA’s technology helps you collaborate in real time
+                    with the trainer in the physical class room and delegates attending the training in person or
+                    virtually! </p>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xl-6 ">
+                <iframe width="100%" height="275" src="https://www.youtube.com/embed/WeQDqdG3GOE" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <!-- <iframe width="100%" height="275" src="Assets/videos/QAAttendfromAnywhere.mp4" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>  -->
+
+                <!--<div class="embed-responsive embed-responsive-16by9" style="height:250;"> 
+						<video width="100%" height="250"  controls="true" class="embed-responsive-item">
+							<source src="Assets/videos/QAAttendfromAnywhere.mp4" type="video/mp4" />
+						</video>
+					</div> -->
+
+
+            </div>
+        </div>
+
+        <div class="text-center mt-5 mb-3">
+            <h1>Advantages</h1>
+        </div>
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                    <div class="advcard box-part text-center shadow p-3">
+                        <div class="text-center p-5">
+                            <img class="img-fluid w-25" src="Assets/Images/standard1.png" alt="">
+                        </div>
+                        <div class="title">
+                            <h4>Trainer support</h4>
+                        </div>
+
+                        <div class="text">
+                            <span>You get full help from the mentors for the term of your course.</span>
+                        </div>
+
+
+
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                    <div class="advcard box-part text-center shadow p-3">
+
+                        <div class="text-center p-5">
+                            <img class="img-fluid w-25" src="Assets/Images/standard2.png" alt="">
+                        </div>
+
+                        <div class="title">
+                            <h4>Flexibility</h4>
+                        </div>
+
+                        <div class="text">
+                            <span>Regardless of whether you're at home or busy working: you can access the training from
+                                anywhere you have internet access.</span>
+                        </div>
+
+
+
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                    <div class="advcard box-part text-center shadow p-3">
+
+                        <div class="text-center p-5">
+                            <img class="img-fluid w-25" src="Assets/Images/standard3.png" alt="">
+                        </div>
+
+                        <div class="title">
+                            <h4>Quality</h4>
+                        </div>
+
+                        <div class="text">
+                            <span>You experience the rigour of an organisation that has been a leader over 35
+                                years!</span>
+                        </div>
+
+
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+
+        <br>
+        <p class="mt-3 mb-5">The technical courses offered run in the hundreds and cut across the Application,
+            Infrastructure,
+            Platform and Network Layers and span most technology vendors! To name a few – AWS, Microsoft Azure, GCP,
+            CISCO, Citrix, VMware, CompTIA, Oracle and Red Hat.</p>
+
+
+
+
+
+
+        <div class="dropdown mb-5">
+            <select class="form-control w-75" name="productvalue" id="productvalue" onchange="getCourse(this.value)">
+                <option selected>Select a Vendor</option>
+
+                <?php
+                $servername = "a2plcpnl0022.prod.iad2.secureserver.net"; 
+                $database = "iprimedweb";
+                $username = "iprimedweb";
+                $password = "Ipr@Web2020";
+                $conn = mysqli_connect($servername,$username, $password, $database);
+				$query="SELECT qm.courseid, cv.eventid, qm.coursetitle, qm.coursevendor, qm.price, qm.courseduration, cv.eventdt
+                FROM qa_course_master qm, course_event_details cv
+                WHERE qm.courseid = cv.courseid
+                AND cv.locationname =  \"Attend From Anywhere\"
+                AND cv.eventdt
+                BETWEEN DATE_ADD( NOW( ) , INTERVAL 28 
+                DAY ) 
+                AND DATE_ADD( NOW( ) , INTERVAL 112 
+                DAY ) 
+                AND qm.active =  \"Y\"
+                AND cv.availability LIKE (
+                \"Yes%\"
+                )
+				ORDER BY qm.coursevendor";
+
+				$querytemp="SELECT qm.courseid, cv.eventid, qm.coursetitle, qm.coursevendor, qm.price, qm.courseduration, cv.eventdt
+                FROM qa_course_master qm, course_event_details_temp cv
+                WHERE qm.courseid = cv.courseid
+                AND cv.locationname =  \"Attend From Anywhere\"
+                AND cv.eventdt
+                BETWEEN DATE_ADD( NOW( ) , INTERVAL 28 
+                DAY ) 
+                AND DATE_ADD( NOW( ) , INTERVAL 112 
+                DAY ) 
+                AND qm.active =  \"Y\"
+                AND cv.availability LIKE (
+                \"Yes%\"
+                )
+				 ORDER BY qm.coursevendor";
+                if ($conn->connect_error) {
+                    die("Connection failed: " . $conn->connect_error);
+                }
+                echo "Connected successfully";
+
+                $result = mysqli_query($conn, $query);
+
+				if (mysqli_num_rows($result)==0)
+				{
+					$result = mysqli_query($conn, $querytemp);
+					
+				}
+                $rows = [];
+				 
+
+                while($row = mysqli_fetch_array($result))
+                {
+                    $rows[] = $row;
+                }          
+                ?>
+            </select>
+            <select class="form-control w-100 mt-5" name="coursevalue" id="coursevalue" style="display:none;"
+                onchange="showData_new(this.value)">
+                <option selected>Select a Course</option>
+            </select>
+        </div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+
+
+
+        <script>
+        //$(document).ready(function(){
+        //$(window).on('load',function(){
+        $(function() {
+            jQuery.noConflict();
+            var shown = sessionStorage.getItem("shown");
+            var strShown = "shown";
+            //alert("Session shown :"+shown);
+            var res = strShown.localeCompare(shown);
+            if (res != 0) {
+                $('#squarespaceModal').modal('show');
+            }
+
+        });
+
+        $(function() {
+            $("#btn-send2").click(function() {
+
+                /*var name=  $("#qaname").val();
+                var email=  $("#qaemail").val();
+                var phone=  $("#qaphone").val();
+                var Subject = "QA Page : Signup Form Submission ";
+                var Msg2 = "Email: "+email +"\nName: "+name+"\nPhone no: "+phone;
+                var to = "website@iprimed.com"; */
+
+                "<?php 
+
+							 if(isset($_POST['btn-send2']))
+							 {
+								//echo '<script>alert("Welcome to Geeks for Geeks :")
+       
+        $UserName = $_POST['qaname'];
+        $Email = $_POST['qaemail'];
+        $Phone = $_POST['qaphone'];
+        $Subject = "QA Page : Signup Form Submission ";
+        $Msg2 = "Email: ".$Email."\nName: ".$UserName."\nPhone no: ".$Phone;
+        //echo $Msg2;
+        $to = "website@iprimed.com";
+        //$show="shown";
+        mail($to,$Subject,$Msg2,$Email);
+        //$_SESSION['shown'] = $show;
+
+        }
+
+        ?>"
+                sessionStorage.setItem("shown", "shown");
+                $("#squarespaceModal").modal('hide');
+            });
+
+        });
+
+        function closeModal() {
+            //jQuery.noConflict();
+            $("#squarespaceModal").modal('hide');
+
+        }
+        //$("#squarespaceModal").modal('hide');
+
+        var mainJsonData = {};
+        window.onload = function() {
+            var simple = <?php echo json_encode($rows); ?>;
+            var myJSON = JSON.stringify(simple);
+            // alert(myJSON);
+            for (var i = 0; i < simple.length; i++) {
+                var temp = simple[i]; // alert(temp); var tempJson={ "eventId" :
+                temp.eventid, "eventDate": temp.eventdt, "courseDuration": temp.courseduration, "coursetitle":
+                    temp.coursetitle, "coursevendor": temp.coursevendor, "price": temp.price, "courseid": temp
+                    .courseid
+            }; //
+            alert(JSON.stringify(tempJson));
+            if (typeof mainJsonData[temp.coursevendor] === "undefined") {
+                var list = [];
+                list.push(tempJson);
+                mainJsonData[temp.coursevendor] = list;
+            } else {
+                mainJsonData[temp.coursevendor].push(tempJson);
+            }
+        } // alert(JSON.stringify(mainJsonData));
+        $('#productvalue').find('option').remove().end();
+        $('#productvalue').append($('<option>', {
+            value: "",
+            text: "Select a Vendor"
+        }));
+        for (var key in mainJsonData) {
+
+            $('#productvalue').append($('<option>', {
+                value: key,
+                text: key
+            }));
+        }
+        }
+        var second_json = {};
+
+        function getCourse(value) {
+            second_json = {};
+            var courseDetailsList = mainJsonData[value];
+            for (var i = 0; i < courseDetailsList.length; i++) {
+                var temp = courseDetailsList[i]; //
+                alert(JSON.stringify(temp));
+                var tempJson = {
+                    "eventId": temp.eventId,
+                    "eventDate": temp.eventDate,
+                    "courseDuration": temp.courseDuration,
+                    "price": temp.price,
+                    "coursetitle": temp.coursetitle,
+                    "courseid": temp.courseid
+                };
+                var temp_key = temp.courseid + "@" + temp.coursetitle; //
+                alert(JSON.stringify(tempJson));
+                if (typeof second_json[temp_key] === "undefined") {
+                    var list = [];
+                    list.push(tempJson);
+                    second_json[temp_key] = list;
+                } else {
+                    second_json[temp_key].push(tempJson);
+                }
+            }
+            // alert(JSON.stringify(second_json)); $('#coursevalue').find('option').remove().end();
+            $('#coursevalue').append($('<option>', {
+                value: "",
+                text: "Select a Course"
+            }));
+            for (var key in second_json) {
+                var idttl = key.split("@");
+                var id = idttl[0];
+                var titl = idttl[1];
+                $('#coursevalue').append($(' <
+                    option > ', {
+                    value: key,
+                    text: id + "-" + titl
+                }));
+        }
+        $('#coursevalue').show();
+
+
+
+
+        }
+
+        function showData_new(val) {
+
+            if (val == "") {
+                return;
+            }
+            var selectedData = val.split("@");
+            var Course_ID = selectedData[0];
+            var CourseTitle = selectedData[1];
+            var courseDetailsList = second_json[val];
+
+
+            var html = "";
+            var datacount = 0;
+            $("#course-table-body").empty();
+            for (var i = 0; i < courseDetailsList.length; i++) {
+                var temp = courseDetailsList[i]; //
+                alert(JSON.stringify(temp));
+                var finalPrice1 = temp.price;
+                var finalPrice = number_format(finalPrice1,
+                    2, '.', ',');
+                finalPrice = "&#8377 " + finalPrice; // alert(finalPrice1+" "+finalPrice);
+
+                var eventDate = temp.eventDate;
+                var splitdate = new Array();
+                splitdate = eventDate.split(" ");
+                var eventDay = splitdate[0];
+                var eventTime = splitdate[1];
+
+
+                var evdate = moment(eventDate, 'DD/MM/YYYY HH:mm:ss').format('DD/MM/YYYY');
+                var currentDate = moment(new Date()).format('DD/MM/YYYY');
+                var startDate = moment(currentDate, 'DD/MM/YYYY');
+                var endDate = moment(evdate, 'DD/MM/YYYY');
+                var result = endDate.diff(startDate, 'days');
+                var result1 = endDate.diff(startDate, 'days');
+                var duration = temp.courseDuration + " days";
+                html += "<tr>" + "<td>" + Course_ID + "</td>" +
+                    "<td>" + CourseTitle + "</td>" +
+                    "<td>" + eventDay + "</td>" +
+                    "<td>" + eventTime + "</td>" +
+                    "<td>" + duration + "</td>" +
+                    "<td>" + finalPrice + "</td>" +
+                    "<td> <
+                div > < a class = 'btn btn-primary text-white'
+                href =
+                    './register.php?courseId="+Course_ID+"&CourseTitle="+CourseTitle+"&eventId="+temp.eventId+"&eventDate="+eventDate+"&finalPrice="+finalPrice1+"' >
+                    Request < /a> < /
+                div > <
+                    /td>" +
+                "</tr>";
+                datacount++;
+            }
+            $('#course-table').append(html);
+            if (datacount == 0) {
+                alert("Currently No Event has been scheduled, please check back later.");
+            }
+        }
+        </script>
+
+        <script>
+        function number_format(number, decimals, decPoint, thousandsSep) {
+            decimals = decimals || 0;
+            number = parseFloat(number);
+
+            if (!decPoint || !thousandsSep) {
+                decPoint = '.';
+                thousandsSep = ',';
+            }
+
+            var roundedNumber = Math.round(Math.abs(number) * ('1e' + decimals)) + '';
+            var numbersString = decimals ? roundedNumber.slice(0, decimals * -1) : roundedNumber;
+            var decimalsString = decimals ? roundedNumber.slice(decimals * -1) : '';
+            var formattedNumber = "";
+
+            while (numbersString.length > 3) {
+                formattedNumber += thousandsSep + numbersString.slice(-3)
+                numbersString = numbersString.slice(0, -3);
+            }
+
+            return (number < 0 ? '-' : '') + numbersString + formattedNumber + (decimalsString ? (decPoint +
+                decimalsString) : '');
+        }
+        </script>
+
+
+        <div style="overflow-x:auto;">
+            <table id="course-table" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>
+                            Course ID
+                        </th>
+                        <th>
+                            Title
+                        </th>
+                        <th>
+                            Date
+                        </th>
+                        <th>
+                            Time
+                        </th>
+                        <th>
+                            Duration
+                        </th>
+                        <th>
+                            *Price
+                        </th>
+                        <th>
+
+                        </th>
+                    </tr>
+                </thead>
+                <tbody id="course-table-body">
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td class="price-td"></td>
+                        <td>
+                            <div>
+                                <!-- <a class="btn btn-primary text-white"></a> -->
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="float-right">*Prices are exclusive of GST</p>
+            <input type="hidden" id="popshown">
+        </div>
+        <h4 class="mt-5"><b>How it works</b></h4>
+        <ol class="ml-3" style="line-height:2rem">
+            <a target="_blank" href="https://www.qa.com/faqs/virtual-classroom/"><img class="img-fluid float-right"
+                    style="width:100px" src="Assets/Images/FAQ.png" alt=""></a>
+            <li>Please ensure that your device meets the WebEx system requirements before you book a course.
+            </li>
+            <li>Select your preferred training from the drop-down menu above.
+            </li>
+            <li> A list with different course dates will be displayed. Choose your preferred date and click
+                on the
+                "request button".</li>
+            <li>Fill in the form that pops up and click on "submit".</li>
+            <li>You will receive a mail from us with further details.</li>
+        </ol>
+
+        <h4 class="mt-5"><b>Did not find what you were looking for?</b></h4>
+        <p>Please <a href="contact_us">contact us</a> and we will reach out to you within the next 24
+            hours.
+        </p>
+    </div>
+
+
+
+
+
+
+
+    <!-- <div class="center">
+	<button data-toggle="modal" data-target="#squarespaceModal"
+            class="btn btn-primary center-block">Click Me
+	</button> squarespaceModal
+</div> -->
+
+
+    <!-- line modal -->
+    <div class="modal fade contmodal" id="squarespaceModal" name="squarespaceModal" tabindex="-1" role="dialog"
+        aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:100000000">
+        <div class="modal-dialog modal-dialog-centered modal-dialog-cont" role="document">
+
+            <div class="modal-content">
+                <div class="modal-header mh-cont">
+                    <h1 class="modal-title pb-2">Hello</h1>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <p class="mb-0">Let’s get this conversation started. Tell us a bit about yourself, and we’ll get in
+                    touch as soon as we can.</p><br />
+                <form class="cuform" action="contact_us_process.php" method="post">
+
+                    <input type="hidden" data-form-email="true" value="">
+                    <div class="row row-sm-offset">
+                        <div class="col-md-12 multi-horizontal nm" data-for="name">
+                            <div class="form-group">
+                                <label class="form-control-label mbr-fonts-style display-7"
+                                    for="name-form1-2w">Name*</label>
+                                <input type="text" class="form-control inpfield" name="name" data-form-field="Name"
+                                    required="" id="name-form1-2w">
+                            </div>
+                        </div>
+                        <div class="col-md-12 multi-horizontal em" data-for="email">
+                            <div class="form-group">
+                                <label class="form-control-label mbr-fonts-style display-7"
+                                    for="email-form1-2w">Email*</label>
+                                <input type="email" class="form-control inpfield" name="email" data-form-field="Email"
+                                    required="" id="email-form1-2w">
+                            </div>
+                        </div>
+                        <div class="col-md-12 multi-horizontal" data-for="phone">
+                            <div class="form-group">
+                                <label class="form-control-label mbr-fonts-style display-7"
+                                    for="phone-form1-2w">Phone*</label>
+                                <input type="tel" class="form-control inpfield" name="phone" data-form-field="Phone"
+                                    id="phone-form1-2w" required="">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-control-label mbr-fonts-style display-7">How did you
+                            hear about us?*</label>
+                        <select class="form-control" name="howhear" onchange='checkvalue(this.value)' required>
+                            <option value="">Please select</option>
+                            <option value="Facebook">Facebook</option>
+                            <option value="Apna Complex">Apna Complex</option>
+                            <option value="LinkedIn">LinkedIn</option>
+                            <option value="Google Search">Google Search</option>
+                            <option value="YouTube">YouTube</option>
+                            <option value="Twitter">Twitter</option>
+                            <option value="Others">Others</option>
+                        </select>
+                        <input class="form-control inpfield mt-3" type="text" placeholder="Please specify*"
+                            name="otherclr" id="howhearinp" />
+                    </div>
+
+                    <div class="form-group" data-for="message">
+                        <label class="form-control-label mbr-fonts-style display-7"
+                            for="message-form1-2w">Message*</label>
+                        <textarea type="text" class="form-control inpfield" name="message" rows="4"
+                            data-form-field="Message" id="message-form1-2w" required></textarea>
+                    </div>
+
+
+                    <span class="input-group-btn ml-1">
+                        <button href="" type="submit" class="btn ml-0 btn-form display-4 sub-btn"
+                            name="btn-send">SUBMIT</button>
+                    </span>
+
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <!-- Footer -->
+
+    <?php include "footer.html" ?>
+
+    <!-- End of footer -->
+
+
+
+
+
+</body>
+
+</html>

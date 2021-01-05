@@ -1,0 +1,4547 @@
+[
+	{
+		"Course_ID": "QASMTSEX",
+		"CourseTitle": "BCS Certificate in Systems Modelling Techniques (Structured) examination",
+		"CourseDuration": "0.5",
+		"CourseVendor": "BCS Business Systems",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "6916"
+	},
+	{
+		"Course_ID": "QACISMP-EX",
+		"CourseTitle": "BCS Certificate in Information Security Management Principles Exam",
+		"CourseDuration": "0.5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Certifications",
+		"Active": "Y",
+		"FinalPricce": "8246"
+	},
+	{
+		"Course_ID": "QAICESAEX",
+		"CourseTitle": "BCS Intermediate Certificate in Enterprise and Solution Architecture examination",
+		"CourseDuration": "0.5",
+		"CourseVendor": "BCS Enterprise Architecture",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "8246"
+	},
+	{
+		"Course_ID": "BCSSPMEX",
+		"CourseTitle": "BCS Specialist Certificate in Problem Management Exam",
+		"CourseDuration": "0.5",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "10528"
+	},
+	{
+		"Course_ID": "BCSSSMEX",
+		"CourseTitle": "BCS Specialist Certificate in Supplier Management Exam only",
+		"CourseDuration": "0.5",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "10528"
+	},
+	{
+		"Course_ID": "QAP2FEX",
+		"CourseTitle": "PRINCE2:2017 (R) Foundation Examination",
+		"CourseDuration": "0.5",
+		"CourseVendor": "PRINCE2 (R)",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "11491"
+	},
+	{
+		"Course_ID": "QAYAM365",
+		"CourseTitle": "Office 365 - Yammer",
+		"CourseDuration": "0.5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "11810"
+	},
+	{
+		"Course_ID": "QAOFFOL365",
+		"CourseTitle": "MS Office 365 - Office Online Apps",
+		"CourseDuration": "0.5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "12555"
+	},
+	{
+		"Course_ID": "QASWAY365",
+		"CourseTitle": "Office 365 Sway",
+		"CourseDuration": "0.5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "13087"
+	},
+	{
+		"Course_ID": "VCWIN10NF",
+		"CourseTitle": "Windows 10 New Features",
+		"CourseDuration": "0.5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows 10",
+		"Active": "Y",
+		"FinalPricce": "13279"
+	},
+	{
+		"Course_ID": "QAWIN10NF",
+		"CourseTitle": "Windows 10 New Features",
+		"CourseDuration": "0.5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows 10",
+		"Active": "Y",
+		"FinalPricce": "13672"
+	},
+	{
+		"Course_ID": "QACYBSEC",
+		"CourseTitle": "Cyber Security and the Board",
+		"CourseDuration": "0.05",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Awareness",
+		"Active": "Y",
+		"FinalPricce": "13726"
+	},
+	{
+		"Course_ID": "QACSS",
+		"CourseTitle": "Cloud Security Seminar",
+		"CourseDuration": "0.2",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Security Operations",
+		"Active": "Y",
+		"FinalPricce": "15481"
+	},
+	{
+		"Course_ID": "QAP2PEX",
+		"CourseTitle": "PRINCE2:2017 (R) Practitioner Examination",
+		"CourseDuration": "0.5",
+		"CourseVendor": "PRINCE2 (R)",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "15960"
+	},
+	{
+		"Course_ID": "ITILCOSAEX",
+		"CourseTitle": "ITIL(R) Capability Certificate in Operational Support and Analysis Exam",
+		"CourseDuration": "1",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "17185"
+	},
+	{
+		"Course_ID": "ITILCPPOEX",
+		"CourseTitle": "ITIL(R) Capability Certificate in Planning, Protection and Optimisation examination",
+		"CourseDuration": "1",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "17185"
+	},
+	{
+		"Course_ID": "ITILCSOAEX",
+		"CourseTitle": "ITIL(R) Capability Certificate in Service Offerings and Agreements examination",
+		"CourseDuration": "1",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "17185"
+	},
+	{
+		"Course_ID": "ITILLCSIEX",
+		"CourseTitle": "ITIL(R) Lifecycle Certificate in Continual Service Improvement examination",
+		"CourseDuration": "1",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "17185"
+	},
+	{
+		"Course_ID": "ITILLSSEX",
+		"CourseTitle": "ITIL(R) Lifecycle Certificate in Service Strategy examination",
+		"CourseDuration": "1",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "17185"
+	},
+	{
+		"Course_ID": "QAISO20KOH",
+		"CourseTitle": "ISO/IEC 20000 Half Day Overview",
+		"CourseDuration": "0.5",
+		"CourseVendor": "ISO",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "17290"
+	},
+	{
+		"Course_ID": "QASPMO365",
+		"CourseTitle": "Office 365 - SharePoint Modern Sites Overview",
+		"CourseDuration": "0.5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "18088"
+	},
+	{
+		"Course_ID": "QAWIN8NFW",
+		"CourseTitle": "Windows 8 Client New Features - half day workshop",
+		"CourseDuration": "0.5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows 8",
+		"Active": "Y",
+		"FinalPricce": "19205"
+	},
+	{
+		"Course_ID": "ITILAH",
+		"CourseTitle": "ITIL(R) v3 Half Day Overview",
+		"CourseDuration": "0.5",
+		"CourseVendor": "ITIL",
+		"ProductName": "Overview",
+		"Active": "Y",
+		"FinalPricce": "19970"
+	},
+	{
+		"Course_ID": "7052",
+		"CourseTitle": "7052a Bespoke SA 2 Day",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SA",
+		"Active": "Y",
+		"FinalPricce": "21489"
+	},
+	{
+		"Course_ID": "DPU10L1",
+		"CourseTitle": "Microsoft Publisher 2010 Essentials",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2010",
+		"Active": "Y",
+		"FinalPricce": "22040"
+	},
+	{
+		"Course_ID": "QACTWTR",
+		"CourseTitle": "Cyber Threat - What's the Risk",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Awareness",
+		"Active": "Y",
+		"FinalPricce": "22078"
+	},
+	{
+		"Course_ID": "VCONOTEC",
+		"CourseTitle": "Microsoft One Note",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2013",
+		"Active": "Y",
+		"FinalPricce": "22426"
+	},
+	{
+		"Course_ID": "VCVISIOC",
+		"CourseTitle": "Microsoft Visio",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "22426"
+	},
+	{
+		"Course_ID": "QAMEX16INT",
+		"CourseTitle": "Microsoft Excel 2016 Essentials - Office for Mac",
+		"CourseDuration": "1",
+		"CourseVendor": "Apple",
+		"ProductName": "Apple Mac for Office 2016",
+		"Active": "Y",
+		"FinalPricce": "22610"
+	},
+	{
+		"Course_ID": "QAMPP16ITM",
+		"CourseTitle": "Microsoft PowerPoint 2016 Intermediate - Office for Mac",
+		"CourseDuration": "1",
+		"CourseVendor": "Apple",
+		"ProductName": "Apple Mac for Office 2016",
+		"Active": "Y",
+		"FinalPricce": "22610"
+	},
+	{
+		"Course_ID": "QACOL365",
+		"CourseTitle": "Office 365 - Collaborate: Office Online, Groups, Teams, Planner",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QACOLST365",
+		"CourseTitle": "Office 365 - Collect and Store: OneDrive, Groups and Forms",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QACOM365",
+		"CourseTitle": "Office 365 - Communicate: Outlook Online,Teams and Yammer",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QACULC365",
+		"CourseTitle": "Office 365 - Culture Change: OneDrive, Delve and Teams",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QACWP365",
+		"CourseTitle": "Office 365 - Connecting with People: Outlook Online, Yammer, Groups and Teams",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QAEX13INT",
+		"CourseTitle": "Microsoft Excel 2013 Essentials",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2013",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QAEX16INT",
+		"CourseTitle": "Microsoft Excel 2016 Essentials",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QAEXAFC",
+		"CourseTitle": "Microsoft Excel Advanced Function Writing",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2013",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QAODTMS365",
+		"CourseTitle": "Office 365 - Teams and OneDrive for Business",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QAOFF16EX",
+		"CourseTitle": "Experience the 2016 Microsoft Office System (From Office 2007 & 2010)",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QAOFF365EU",
+		"CourseTitle": "Microsoft Office 365 for End Users",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QAONOTEC",
+		"CourseTitle": "Microsoft OneNote",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2013",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QAPF16W10",
+		"CourseTitle": "PC Fundamentals - Office 2016 and Windows 10",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QAPPADVC",
+		"CourseTitle": "Microsoft PowerPoint Advanced",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QAW10O16EX",
+		"CourseTitle": "Experience Windows 10 and Microsoft Office 2016 New Features (From Office 2007 & 2010)",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QAW10O16NF",
+		"CourseTitle": "Experience Windows 10 and Microsoft Office 2016 New Features (From Office 2013)",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "23408"
+	},
+	{
+		"Course_ID": "QAPF13W8",
+		"CourseTitle": "PC Fundamentals - Office 2013 and Windows 8",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "PC Fundamentals",
+		"Active": "Y",
+		"FinalPricce": "23940"
+	},
+	{
+		"Course_ID": "DPU13L1",
+		"CourseTitle": "Microsoft Publisher 2013 Essentials",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2013",
+		"Active": "Y",
+		"FinalPricce": "23969"
+	},
+	{
+		"Course_ID": "QAGABUS",
+		"CourseTitle": "Google Apps - Cloud Essentials",
+		"CourseDuration": "1",
+		"CourseVendor": "Google",
+		"ProductName": "Google Apps",
+		"Active": "Y",
+		"FinalPricce": "25004"
+	},
+	{
+		"Course_ID": "QAGSADV",
+		"CourseTitle": "Google Apps - Sheets Advanced",
+		"CourseDuration": "1",
+		"CourseVendor": "Google",
+		"ProductName": "Google Apps",
+		"Active": "Y",
+		"FinalPricce": "25004"
+	},
+	{
+		"Course_ID": "QAGSINT",
+		"CourseTitle": "Google Apps - Sheets Essentials",
+		"CourseDuration": "1",
+		"CourseVendor": "Google",
+		"ProductName": "Google Apps",
+		"Active": "Y",
+		"FinalPricce": "25004"
+	},
+	{
+		"Course_ID": "QAGSITM",
+		"CourseTitle": "Google Apps - Sheets Intermediate",
+		"CourseDuration": "1",
+		"CourseVendor": "Google",
+		"ProductName": "Google Apps",
+		"Active": "Y",
+		"FinalPricce": "25004"
+	},
+	{
+		"Course_ID": "QAADPSE",
+		"CourseTitle": "Adobe Photoshop Elements",
+		"CourseDuration": "1",
+		"CourseVendor": "Adobe",
+		"ProductName": "Adobe Photoshop CS6",
+		"Active": "Y",
+		"FinalPricce": "28462"
+	},
+	{
+		"Course_ID": "QAICSMGR",
+		"CourseTitle": "ICS Security for Managers",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Security Operations",
+		"Active": "Y",
+		"FinalPricce": "28462"
+	},
+	{
+		"Course_ID": "QAPSADVC",
+		"CourseTitle": "Adobe Photoshop Advanced",
+		"CourseDuration": "1",
+		"CourseVendor": "Adobe",
+		"ProductName": "Adobe Photoshop CS6",
+		"Active": "Y",
+		"FinalPricce": "28462"
+	},
+	{
+		"Course_ID": "QAWIN8ECW",
+		"CourseTitle": "Embracing the Consumerisation of IT effectively with Microsoft solutions - 1 day workshop",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows 8",
+		"Active": "Y",
+		"FinalPricce": "29260"
+	},
+	{
+		"Course_ID": "QAEHTMLPRI",
+		"CourseTitle": "Learn to Code - Producing Enhanced Web Pages",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Learn to Code",
+		"Active": "Y",
+		"FinalPricce": "29792"
+	},
+	{
+		"Course_ID": "QAFUNDPRI",
+		"CourseTitle": "Learn to Code - Fundamentals",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Learn to Code",
+		"Active": "Y",
+		"FinalPricce": "29792"
+	},
+	{
+		"Course_ID": "QAHTMLPRI",
+		"CourseTitle": "Learn to Code - Creating Web Pages",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Learn to Code",
+		"Active": "Y",
+		"FinalPricce": "29792"
+	},
+	{
+		"Course_ID": "QAILADVC",
+		"CourseTitle": "Adobe Illustrator Advanced",
+		"CourseDuration": "1",
+		"CourseVendor": "Adobe",
+		"ProductName": "Adobe Illustrator CS6",
+		"Active": "Y",
+		"FinalPricce": "29792"
+	},
+	{
+		"Course_ID": "QAILINTC",
+		"CourseTitle": "Adobe Illustrator Essentials",
+		"CourseDuration": "1",
+		"CourseVendor": "Adobe",
+		"ProductName": "Adobe Illustrator CS6",
+		"Active": "Y",
+		"FinalPricce": "29792"
+	},
+	{
+		"Course_ID": "QAJSPRI",
+		"CourseTitle": "Learn to Code - Using JavaScript",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Learn to Code",
+		"Active": "Y",
+		"FinalPricce": "29792"
+	},
+	{
+		"Course_ID": "QAXMLPRI",
+		"CourseTitle": "Learn to Code - XML",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Learn to Code",
+		"Active": "Y",
+		"FinalPricce": "29792"
+	},
+	{
+		"Course_ID": "QABPMN",
+		"CourseTitle": "Fundamentals of Business Process Modelling Notation (BPMN)",
+		"CourseDuration": "1",
+		"CourseVendor": "Generic Business Systems Development",
+		"ProductName": "Process Modelling",
+		"Active": "Y",
+		"FinalPricce": "30856"
+	},
+	{
+		"Course_ID": "QAPUC",
+		"CourseTitle": "Practical Use Cases",
+		"CourseDuration": "1",
+		"CourseVendor": "Generic Business Systems Development",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "30856"
+	},
+	{
+		"Course_ID": "QACFCAW",
+		"CourseTitle": "Cyberpsychologist Assisted Wargaming & Crisis Management",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Certifications",
+		"Active": "Y",
+		"FinalPricce": "31388"
+	},
+	{
+		"Course_ID": "QAWICOMPLI",
+		"CourseTitle": "Practical Data Protection Officer",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Compliance",
+		"Active": "Y",
+		"FinalPricce": "31388"
+	},
+	{
+		"Course_ID": "QAITA",
+		"CourseTitle": "Introduction to Accreditation",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "HMG Information Assurance",
+		"Active": "Y",
+		"FinalPricce": "33782"
+	},
+	{
+		"Course_ID": "QAIPM",
+		"CourseTitle": "Introduction to Project Management",
+		"CourseDuration": "1",
+		"CourseVendor": "Generic Project & Programme Management",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "35644"
+	},
+	{
+		"Course_ID": "VCSPEUOL1",
+		"CourseTitle": "Microsoft SharePoint Online End User Essentials",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "36476"
+	},
+	{
+		"Course_ID": "QAABAP",
+		"CourseTitle": "APMG Agile Business Analysis Practitioner - AgileBA(R)",
+		"CourseDuration": "1",
+		"CourseVendor": "APMG",
+		"ProductName": "Agile Business Analyst",
+		"Active": "Y",
+		"FinalPricce": "37772"
+	},
+	{
+		"Course_ID": "QAPBIRDB",
+		"CourseTitle": "Microsoft Power BI Reports and Dashboards for Business Users",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft PowerBI",
+		"Active": "Y",
+		"FinalPricce": "38304"
+	},
+	{
+		"Course_ID": "QAIOSDEPS",
+		"CourseTitle": "iPad and iPhone deployment strategies",
+		"CourseDuration": "1",
+		"CourseVendor": "Apple",
+		"ProductName": "Apple OSX",
+		"Active": "Y",
+		"FinalPricce": "38836"
+	},
+	{
+		"Course_ID": "QAIOSENT",
+		"CourseTitle": "Deploying iPad and iPhone in the enterprise",
+		"CourseDuration": "1",
+		"CourseVendor": "Apple",
+		"ProductName": "Apple OSX",
+		"Active": "Y",
+		"FinalPricce": "38836"
+	},
+	{
+		"Course_ID": "QAIOSSEC",
+		"CourseTitle": "iOS Enterprise Security",
+		"CourseDuration": "1",
+		"CourseVendor": "Apple",
+		"ProductName": "macOS MoJave",
+		"Active": "Y",
+		"FinalPricce": "38836"
+	},
+	{
+		"Course_ID": "QAOFF365TEC",
+		"CourseTitle": "Office 365 - Technical Overview for the IT Professional",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "39102"
+	},
+	{
+		"Course_ID": "QALXPR-1",
+		"CourseTitle": "Understanding Linux (Linux Primer)",
+		"CourseDuration": "1",
+		"CourseVendor": "Linux",
+		"ProductName": "LINUX",
+		"Active": "Y",
+		"FinalPricce": "39368"
+	},
+	{
+		"Course_ID": "QASPEUPL1",
+		"CourseTitle": "Microsoft SharePoint On-Premises End User Essentials (2013 & 2016)",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Sharepoint 2016",
+		"Active": "Y",
+		"FinalPricce": "39368"
+	},
+	{
+		"Course_ID": "QABOOTSTR",
+		"CourseTitle": "Web Development Fundamentals - Bootstrap",
+		"CourseDuration": "1",
+		"CourseVendor": "Internet Technologies",
+		"ProductName": "Web Site Development",
+		"Active": "Y",
+		"FinalPricce": "39900"
+	},
+	{
+		"Course_ID": "QAPYOF",
+		"CourseTitle": "Digital Cyber Safety",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Intelligence",
+		"Active": "Y",
+		"FinalPricce": "39900"
+	},
+	{
+		"Course_ID": "QASPEUOL1",
+		"CourseTitle": "Microsoft SharePoint Online End User Essentials",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SharePoint Online",
+		"Active": "Y",
+		"FinalPricce": "39900"
+	},
+	{
+		"Course_ID": "MAZ900",
+		"CourseTitle": "Microsoft Azure Fundamentals",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Azure",
+		"Active": "Y",
+		"FinalPricce": "39948"
+	},
+	{
+		"Course_ID": "QACPPPR",
+		"CourseTitle": "C++ Primer",
+		"CourseDuration": "1",
+		"CourseVendor": "C, C++, COBOL",
+		"ProductName": "C++",
+		"Active": "Y",
+		"FinalPricce": "40432"
+	},
+	{
+		"Course_ID": "QAWIN10ITP",
+		"CourseTitle": "What is New in Windows 10 for IT Professionals",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows 10",
+		"Active": "Y",
+		"FinalPricce": "40432"
+	},
+	{
+		"Course_ID": "QAICC",
+		"CourseTitle": "Introduction to Cloud Computing",
+		"CourseDuration": "1",
+		"CourseVendor": "Cloud",
+		"ProductName": "Cloud",
+		"Active": "Y",
+		"FinalPricce": "40698"
+	},
+	{
+		"Course_ID": "QAUA",
+		"CourseTitle": "Understanding Agile",
+		"CourseDuration": "1",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "40964"
+	},
+	{
+		"Course_ID": "QAUAS",
+		"CourseTitle": "Understanding Agile and Scrum",
+		"CourseDuration": "1",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "40964"
+	},
+	{
+		"Course_ID": "ITILAF",
+		"CourseTitle": "ITIL(R) v3 One Day Overview",
+		"CourseDuration": "1",
+		"CourseVendor": "ITIL",
+		"ProductName": "Overview",
+		"Active": "Y",
+		"FinalPricce": "41434"
+	},
+	{
+		"Course_ID": "MS900",
+		"CourseTitle": "Microsoft 365 Fundamentals",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "41601"
+	},
+	{
+		"Course_ID": "QACYHUNT",
+		"CourseTitle": "Malicious Network Traffic Analysis - Threat Hunting",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Offensive Defence",
+		"Active": "Y",
+		"FinalPricce": "42560"
+	},
+	{
+		"Course_ID": "QAASOCENG",
+		"CourseTitle": "Advanced Social Engineering",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Awareness",
+		"Active": "Y",
+		"FinalPricce": "42826"
+	},
+	{
+		"Course_ID": "QABYOPHISH",
+		"CourseTitle": "Build Your Own Phishing Platform",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Awareness",
+		"Active": "Y",
+		"FinalPricce": "42826"
+	},
+	{
+		"Course_ID": "QADRONEH",
+		"CourseTitle": "Drones - Disruptive Operations and Countering: Vulnerabilities and Opportunities",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Security Operations",
+		"Active": "Y",
+		"FinalPricce": "42826"
+	},
+	{
+		"Course_ID": "QAAQATP",
+		"CourseTitle": "Assuring Quality Using Azure Test Plans",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Azure",
+		"Active": "Y",
+		"FinalPricce": "43092"
+	},
+	{
+		"Course_ID": "QACRMFS",
+		"CourseTitle": "Microsoft Dynamics 365 Field Service",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Dynamics 365",
+		"Active": "Y",
+		"FinalPricce": "43092"
+	},
+	{
+		"Course_ID": "QACRMSE",
+		"CourseTitle": "Microsoft Dynamics 365 Service Management",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Dynamics 365",
+		"Active": "Y",
+		"FinalPricce": "43092"
+	},
+	{
+		"Course_ID": "QACRMSM",
+		"CourseTitle": "Microsoft Dynamics 365 Sales Management",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Dynamics CRM",
+		"Active": "Y",
+		"FinalPricce": "43092"
+	},
+	{
+		"Course_ID": "QACSSM",
+		"CourseTitle": "Coaching Skills for Scrum Masters",
+		"CourseDuration": "1",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "43092"
+	},
+	{
+		"Course_ID": "QAMARS",
+		"CourseTitle": "Mastering Azure Repos",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Azure",
+		"Active": "Y",
+		"FinalPricce": "43092"
+	},
+	{
+		"Course_ID": "QAMPAB",
+		"CourseTitle": "Managing Projects Using Azure Boards",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Azure",
+		"Active": "Y",
+		"FinalPricce": "43092"
+	},
+	{
+		"Course_ID": "ITILFCE",
+		"CourseTitle": "ITIL(R) v3 Foundation Certificate in IT Service Management Cram and Exam",
+		"CourseDuration": "1",
+		"CourseVendor": "ITIL",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "43472"
+	},
+	{
+		"Course_ID": "QAICSSI",
+		"CourseTitle": "Industrial Control Systems Security Introduction",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Offensive Defence",
+		"Active": "Y",
+		"FinalPricce": "43890"
+	},
+	{
+		"Course_ID": "MB200T02",
+		"CourseTitle": "Dynamics: Power Platform automation",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Dynamics 365",
+		"Active": "Y",
+		"FinalPricce": "44631"
+	},
+	{
+		"Course_ID": "MB200T03",
+		"CourseTitle": "Dynamics: Power Platform Integrations",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Dynamics 365",
+		"Active": "Y",
+		"FinalPricce": "44631"
+	},
+	{
+		"Course_ID": "MB200T04",
+		"CourseTitle": "Dynamics: Power Platform Test and Deploy",
+		"CourseDuration": "1",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Dynamics 365",
+		"Active": "Y",
+		"FinalPricce": "44631"
+	},
+	{
+		"Course_ID": "QADEVOPSGIT",
+		"CourseTitle": "Introducing GIT",
+		"CourseDuration": "1",
+		"CourseVendor": "DevOps",
+		"ProductName": "Devops",
+		"Active": "Y",
+		"FinalPricce": "44954"
+	},
+	{
+		"Course_ID": "QAGDPR",
+		"CourseTitle": "GDPR an Introduction",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "GDPR",
+		"Active": "Y",
+		"FinalPricce": "45220"
+	},
+	{
+		"Course_ID": "QAUWWW",
+		"CourseTitle": "Understanding the World Wide Web",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Awareness",
+		"Active": "Y",
+		"FinalPricce": "45220"
+	},
+	{
+		"Course_ID": "QAVISIOC",
+		"CourseTitle": "Microsoft Visio",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "45220"
+	},
+	{
+		"Course_ID": "QACSI",
+		"CourseTitle": "Cyber Security - An Introduction",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Awareness",
+		"Active": "Y",
+		"FinalPricce": "45486"
+	},
+	{
+		"Course_ID": "QAEX16ITM",
+		"CourseTitle": "Microsoft Excel 2016 Intermediate",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "45486"
+	},
+	{
+		"Course_ID": "QAINTNET",
+		"CourseTitle": "Introduction to Networking",
+		"CourseDuration": "1",
+		"CourseVendor": "Voice and Data Communications",
+		"ProductName": "Voice and Data Communications",
+		"Active": "Y",
+		"FinalPricce": "45486"
+	},
+	{
+		"Course_ID": "QAINTTCP",
+		"CourseTitle": "Introduction to TCP IP",
+		"CourseDuration": "1",
+		"CourseVendor": "Voice and Data Communications",
+		"ProductName": "Voice and Data Communications",
+		"Active": "Y",
+		"FinalPricce": "45486"
+	},
+	{
+		"Course_ID": "QAUNWIFI",
+		"CourseTitle": "Understanding Wireless Networks",
+		"CourseDuration": "1",
+		"CourseVendor": "Voice and Data Communications",
+		"ProductName": "Voice and Data Communications",
+		"Active": "Y",
+		"FinalPricce": "45486"
+	},
+	{
+		"Course_ID": "QATDDWS",
+		"CourseTitle": "Test Driven Development Workshop",
+		"CourseDuration": "1",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "TDD",
+		"Active": "Y",
+		"FinalPricce": "46018"
+	},
+	{
+		"Course_ID": "QAPR13INT",
+		"CourseTitle": "Microsoft Project 2013 Essentials",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2013",
+		"Active": "Y",
+		"FinalPricce": "46816"
+	},
+	{
+		"Course_ID": "QAACADVC",
+		"CourseTitle": "Microsoft Access Advanced",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "47348"
+	},
+	{
+		"Course_ID": "QAACINTC",
+		"CourseTitle": "Microsoft Access Essentials",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "47348"
+	},
+	{
+		"Course_ID": "QAEX16ADV",
+		"CourseTitle": "Microsoft Excel 2016 Advanced",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "47348"
+	},
+	{
+		"Course_ID": "QAMEX16ITM",
+		"CourseTitle": "Microsoft Excel 2016 Intermediate - Office for Mac",
+		"CourseDuration": "2",
+		"CourseVendor": "Apple",
+		"ProductName": "Apple Mac for Office 2016",
+		"Active": "Y",
+		"FinalPricce": "47348"
+	},
+	{
+		"Course_ID": "QAVBAINTC",
+		"CourseTitle": "Microsoft Office - VBA Essentials",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "47348"
+	},
+	{
+		"Course_ID": "QADEVOPSINT",
+		"CourseTitle": "Introducing DevOps",
+		"CourseDuration": "1",
+		"CourseVendor": "DevOps",
+		"ProductName": "Devops",
+		"Active": "Y",
+		"FinalPricce": "48412"
+	},
+	{
+		"Course_ID": "QAEX16PT1",
+		"CourseTitle": "Microsoft Excel 2016 Data Analysis and Power Tools Part 1",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "48412"
+	},
+	{
+		"Course_ID": "QAEX16PT2",
+		"CourseTitle": "Microsoft Excel 2016 Data Analysis and Power Tools Part 2",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "48412"
+	},
+	{
+		"Course_ID": "QAGDFWADV",
+		"CourseTitle": "Google Apps - Drive Advanced",
+		"CourseDuration": "2",
+		"CourseVendor": "Google",
+		"ProductName": "Google Drive",
+		"Active": "Y",
+		"FinalPricce": "48412"
+	},
+	{
+		"Course_ID": "QAGDFWINT",
+		"CourseTitle": "Google Apps - Drive Essentials",
+		"CourseDuration": "2",
+		"CourseVendor": "Google",
+		"ProductName": "Google Drive",
+		"Active": "Y",
+		"FinalPricce": "48412"
+	},
+	{
+		"Course_ID": "QAEX13PT1",
+		"CourseTitle": "Microsoft Excel 2013 Data Analysis and Power Tools Part 1",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2013",
+		"Active": "Y",
+		"FinalPricce": "48678"
+	},
+	{
+		"Course_ID": "QAEX13PT2",
+		"CourseTitle": "Microsoft Excel 2013 Data Analysis and Power Tools Part 2",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2013",
+		"Active": "Y",
+		"FinalPricce": "48678"
+	},
+	{
+		"Course_ID": "QAPRP2",
+		"CourseTitle": "Using Microsoft Project in a PRINCE2 (R) Environment",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "48678"
+	},
+	{
+		"Course_ID": "QAEX13ADV",
+		"CourseTitle": "Microsoft Excel 2013 Advanced",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2013",
+		"Active": "Y",
+		"FinalPricce": "49476"
+	},
+	{
+		"Course_ID": "QAEX13ITM",
+		"CourseTitle": "Microsoft Excel 2013 Intermediate",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2013",
+		"Active": "Y",
+		"FinalPricce": "49476"
+	},
+	{
+		"Course_ID": "QAPR10INT",
+		"CourseTitle": "Microsoft Project 2010 Essentials",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2010",
+		"Active": "Y",
+		"FinalPricce": "49742"
+	},
+	{
+		"Course_ID": "QAPSINTC",
+		"CourseTitle": "Adobe Photoshop Essentials",
+		"CourseDuration": "2",
+		"CourseVendor": "Adobe",
+		"ProductName": "Adobe Photoshop CS6",
+		"Active": "Y",
+		"FinalPricce": "50008"
+	},
+	{
+		"Course_ID": "QAJENKINS",
+		"CourseTitle": "Continuous Integration and Continuous Delivery (CI CD) with Jenkins",
+		"CourseDuration": "1",
+		"CourseVendor": "DevOps",
+		"ProductName": "Jenkins",
+		"Active": "Y",
+		"FinalPricce": "50274"
+	},
+	{
+		"Course_ID": "QAPR16INT",
+		"CourseTitle": "Microsoft Project 2016 Essentials",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "50540"
+	},
+	{
+		"Course_ID": "QAPR10ADV",
+		"CourseTitle": "Microsoft Project 2010 Advanced",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2010",
+		"Active": "Y",
+		"FinalPricce": "51072"
+	},
+	{
+		"Course_ID": "QAPRADVC",
+		"CourseTitle": "Microsoft Project Advanced",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "51072"
+	},
+	{
+		"Course_ID": "QAICSPRAC",
+		"CourseTitle": "ICS Practitioners Security Course",
+		"CourseDuration": "2",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Security Operations",
+		"Active": "Y",
+		"FinalPricce": "51338"
+	},
+	{
+		"Course_ID": "QAORAPEX2",
+		"CourseTitle": "Oracle Application Express - Level 2",
+		"CourseDuration": "2",
+		"CourseVendor": "Oracle",
+		"ProductName": "Oracle Applications",
+		"Active": "Y",
+		"FinalPricce": "51551"
+	},
+	{
+		"Course_ID": "QAP2P",
+		"CourseTitle": "PRINCE2:2017 (R) Practitioner (inc. Examination)",
+		"CourseDuration": "3",
+		"CourseVendor": "PRINCE2 (R)",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "51870"
+	},
+	{
+		"Course_ID": "QAP2F",
+		"CourseTitle": "PRINCE2:2017 (R) Foundation (inc. Examination)",
+		"CourseDuration": "2",
+		"CourseVendor": "PRINCE2 (R)",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "52402"
+	},
+	{
+		"Course_ID": "QAJIRAESS",
+		"CourseTitle": "JIRA Essentials",
+		"CourseDuration": "1",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "53998"
+	},
+	{
+		"Course_ID": "AMWSBE",
+		"CourseTitle": "AWS Business Essentials",
+		"CourseDuration": "1",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "56947"
+	},
+	{
+		"Course_ID": "AMWSDL",
+		"CourseTitle": "Deep Learning on AWS",
+		"CourseDuration": "1",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "56947"
+	},
+	{
+		"Course_ID": "AMWSE",
+		"CourseTitle": "AWS Technical Essentials",
+		"CourseDuration": "1",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "56947"
+	},
+	{
+		"Course_ID": "AMWSRCEM",
+		"CourseTitle": "Running Container-Enabled Microservices on AWS",
+		"CourseDuration": "1",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "56947"
+	},
+	{
+		"Course_ID": "QASPEUPL2",
+		"CourseTitle": "Microsoft SharePoint On-Premises End User Intermediate (2013 & 2016)",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Sharepoint 2016",
+		"Active": "Y",
+		"FinalPricce": "57190"
+	},
+	{
+		"Course_ID": "QASPWCM",
+		"CourseTitle": "Microsoft SharePoint Web Content Management for End Users",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Sharepoint 2016",
+		"Active": "Y",
+		"FinalPricce": "57190"
+	},
+	{
+		"Course_ID": "QACYDEFSOC",
+		"CourseTitle": "Simulated Attack and Defence",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Security Operations",
+		"Active": "Y",
+		"FinalPricce": "59850"
+	},
+	{
+		"Course_ID": "QAKOTH",
+		"CourseTitle": "King of the Hill - Hack the Class",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Offensive Defence",
+		"Active": "Y",
+		"FinalPricce": "59850"
+	},
+	{
+		"Course_ID": "QADIGHOW",
+		"CourseTitle": "How to Thrive in a Digital World",
+		"CourseDuration": "1",
+		"CourseVendor": "Digital Transformations",
+		"ProductName": "Digital Transformation",
+		"Active": "Y",
+		"FinalPricce": "60116"
+	},
+	{
+		"Course_ID": "QADIGSOC",
+		"CourseTitle": "Navigating the Social Media Landscape",
+		"CourseDuration": "1",
+		"CourseVendor": "Digital Transformations",
+		"ProductName": "Digital Transformation",
+		"Active": "Y",
+		"FinalPricce": "60116"
+	},
+	{
+		"Course_ID": "QADLDDL",
+		"CourseTitle": "Digital Transformation for Executives - Data Enabled Organisations",
+		"CourseDuration": "0.5",
+		"CourseVendor": "Digital Transformations",
+		"ProductName": "Digital Transformation",
+		"Active": "Y",
+		"FinalPricce": "60116"
+	},
+	{
+		"Course_ID": "QALDT",
+		"CourseTitle": "Leading the Digital Transformation",
+		"CourseDuration": "1",
+		"CourseVendor": "Digital Transformations",
+		"ProductName": "Digital Transformation",
+		"Active": "Y",
+		"FinalPricce": "60116"
+	},
+	{
+		"Course_ID": "QASAFEL",
+		"CourseTitle": "Leading SAFe (R)",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "SAFe",
+		"Active": "Y",
+		"FinalPricce": "60116"
+	},
+	{
+		"Course_ID": "QASAFEPOOM",
+		"CourseTitle": "SAFe (R) Product Owner and Product Manager",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "SAFe",
+		"Active": "Y",
+		"FinalPricce": "60116"
+	},
+	{
+		"Course_ID": "QASAFESM",
+		"CourseTitle": "SAFe (R) Scrum Master",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "SAFe",
+		"Active": "Y",
+		"FinalPricce": "60116"
+	},
+	{
+		"Course_ID": "QASAFET",
+		"CourseTitle": "SAFe (R) for Teams",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "SAFe",
+		"Active": "Y",
+		"FinalPricce": "60116"
+	},
+	{
+		"Course_ID": "QASPEUOL2",
+		"CourseTitle": "Microsoft SharePoint Online End User Intermediate",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SharePoint Online",
+		"Active": "Y",
+		"FinalPricce": "60116"
+	},
+	{
+		"Course_ID": "QABCSAF",
+		"CourseTitle": "BCS Agile Foundation Certificate",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "60382"
+	},
+	{
+		"Course_ID": "QAPCTL",
+		"CourseTitle": "BCS Professional Certificate in Team Leadership",
+		"CourseDuration": "2",
+		"CourseVendor": "BCS Business Systems",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "60648"
+	},
+	{
+		"Course_ID": "GCPFBDML",
+		"CourseTitle": "Google Cloud Fundamentals: Big Data and Machine Learning",
+		"CourseDuration": "1",
+		"CourseVendor": "Google",
+		"ProductName": "Google Cloud Platform",
+		"Active": "Y",
+		"FinalPricce": "61562"
+	},
+	{
+		"Course_ID": "GCPFCI",
+		"CourseTitle": "Google Cloud Platform Fundamentals: Core Infrastructure",
+		"CourseDuration": "1",
+		"CourseVendor": "Google",
+		"ProductName": "Google Cloud Platform",
+		"Active": "Y",
+		"FinalPricce": "61562"
+	},
+	{
+		"Course_ID": "GCPGSGKE",
+		"CourseTitle": "Getting started with Google kubernetes engine",
+		"CourseDuration": "1",
+		"CourseVendor": "Google",
+		"ProductName": "Google Cloud Platform",
+		"Active": "Y",
+		"FinalPricce": "61562"
+	},
+	{
+		"Course_ID": "GCPPDEE",
+		"CourseTitle": "Preparing for the Professional Data Engineer Examination",
+		"CourseDuration": "1",
+		"CourseVendor": "Google",
+		"ProductName": "Google Cloud Platform",
+		"Active": "Y",
+		"FinalPricce": "61562"
+	},
+	{
+		"Course_ID": "QACRYPTO",
+		"CourseTitle": "Practical 'hands-on' Encryption",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Security Operations",
+		"Active": "Y",
+		"FinalPricce": "62776"
+	},
+	{
+		"Course_ID": "QAMACOSCAET",
+		"CourseTitle": "macOS Catalina Enterprise Troubleshooting and Support",
+		"CourseDuration": "2",
+		"CourseVendor": "Apple",
+		"ProductName": "macOS Catalina",
+		"Active": "Y",
+		"FinalPricce": "62776"
+	},
+	{
+		"Course_ID": "QAPBIDT3",
+		"CourseTitle": "Power BI Desktop for Business Users",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft PowerBI",
+		"Active": "Y",
+		"FinalPricce": "62776"
+	},
+	{
+		"Course_ID": "QAPMP-EPW",
+		"CourseTitle": "Preparing for the PMP (R) Exam",
+		"CourseDuration": "2",
+		"CourseVendor": "Project Management Institute (PMI)",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "62776"
+	},
+	{
+		"Course_ID": "QACHEFINT",
+		"CourseTitle": "Chef Intermediate",
+		"CourseDuration": "2",
+		"CourseVendor": "DevOps",
+		"ProductName": "Chef",
+		"Active": "Y",
+		"FinalPricce": "63042"
+	},
+	{
+		"Course_ID": "QAIOSHD",
+		"CourseTitle": "Supporting iOS for the Help Desk",
+		"CourseDuration": "2",
+		"CourseVendor": "Apple",
+		"ProductName": "macOS MoJave",
+		"Active": "Y",
+		"FinalPricce": "64372"
+	},
+	{
+		"Course_ID": "QAMACOSMOET",
+		"CourseTitle": "macOS Mojave Enterprise Troubleshooting and Support",
+		"CourseDuration": "2",
+		"CourseVendor": "Apple",
+		"ProductName": "macOS MoJave",
+		"Active": "Y",
+		"FinalPricce": "64372"
+	},
+	{
+		"Course_ID": "QAVBAADVC",
+		"CourseTitle": "Microsoft Office - VBA Advanced",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "65436"
+	},
+	{
+		"Course_ID": "AMWSAAW",
+		"CourseTitle": "Certified Solutions Architect Associate Level-Exam Preparation",
+		"CourseDuration": "1",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "65960"
+	},
+	{
+		"Course_ID": "AMWSAPW",
+		"CourseTitle": "Certified Solutions Architect Professional Level-Exam Preparation",
+		"CourseDuration": "1",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "65960"
+	},
+	{
+		"Course_ID": "AMWSDEXW",
+		"CourseTitle": "AWS Certified Developer - Associate - Exam Preparation",
+		"CourseDuration": "1",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "65960"
+	},
+	{
+		"Course_ID": "AMWSSOEXW",
+		"CourseTitle": "AWS Certified SysOps Administrator - Associate - Exam Preparation",
+		"CourseDuration": "1",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "65960"
+	},
+	{
+		"Course_ID": "QAPCDA",
+		"CourseTitle": "BCS Professional Certificate in Data Analysis",
+		"CourseDuration": "2",
+		"CourseVendor": "BCS Business Systems",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "66234"
+	},
+	{
+		"Course_ID": "QAPCSE",
+		"CourseTitle": "BCS Professional Certificate in Stakeholder Engagement",
+		"CourseDuration": "2",
+		"CourseVendor": "BCS Business Systems",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "66234"
+	},
+	{
+		"Course_ID": "QAFCCM",
+		"CourseTitle": "IACCM Fundamentals of Contract and Commercial Management",
+		"CourseDuration": "2",
+		"CourseVendor": "IACCM",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "66500"
+	},
+	{
+		"Course_ID": "QAATF",
+		"CourseTitle": "ISTQB Agile Tester Foundation Level Extension (inc examination voucher)",
+		"CourseDuration": "2",
+		"CourseVendor": "BSD Testing Skills",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "67830"
+	},
+	{
+		"Course_ID": "QABAASE",
+		"CourseTitle": "Business Analysis in an Agile (Scrum) Environment",
+		"CourseDuration": "2",
+		"CourseVendor": "Generic Business Systems Development",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "68096"
+	},
+	{
+		"Course_ID": "QAVERISMF",
+		"CourseTitle": "VeriSM (TM) Foundation",
+		"CourseDuration": "2",
+		"CourseVendor": "VeriSM",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "68096"
+	},
+	{
+		"Course_ID": "QASCATW",
+		"CourseTitle": "Designing a Service Catalogue Workshop",
+		"CourseDuration": "2",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "68628"
+	},
+	{
+		"Course_ID": "QANISTF",
+		"CourseTitle": "NIST Security Framework Foundation",
+		"CourseDuration": "2",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Compliance",
+		"Active": "Y",
+		"FinalPricce": "69160"
+	},
+	{
+		"Course_ID": "QACYDEFF",
+		"CourseTitle": "Cyber Defender Foundation (CTF)",
+		"CourseDuration": "2",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Offensive Defence",
+		"Active": "Y",
+		"FinalPricce": "71288"
+	},
+	{
+		"Course_ID": "M10998",
+		"CourseTitle": "Updating Your Skills to SQL Server 2017",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2017",
+		"Active": "Y",
+		"FinalPricce": "71355"
+	},
+	{
+		"Course_ID": "M55202",
+		"CourseTitle": "PowerShell 5.0 and Desired State Configuration",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Powershell",
+		"Active": "Y",
+		"FinalPricce": "71355"
+	},
+	{
+		"Course_ID": "ITIL4FFT",
+		"CourseTitle": "ITIL(R) 4 Foundation Certificate in IT Service Management - Fast Track",
+		"CourseDuration": "2",
+		"CourseVendor": "ITIL",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "73699"
+	},
+	{
+		"Course_ID": "MDP201",
+		"CourseTitle": "Designing an Azure Data Solution",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Azure Data and AI",
+		"Active": "Y",
+		"FinalPricce": "74110"
+	},
+	{
+		"Course_ID": "MS200T01",
+		"CourseTitle": "Understanding the Modern Messaging Infrastructure",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "74110"
+	},
+	{
+		"Course_ID": "QAMACOSMOTS",
+		"CourseTitle": "macOS Mojave Troubleshooting and Support",
+		"CourseDuration": "3",
+		"CourseVendor": "Apple",
+		"ProductName": "macOS MoJave",
+		"Active": "Y",
+		"FinalPricce": "74746"
+	},
+	{
+		"Course_ID": "ITILP",
+		"CourseTitle": "ITIL(R) Practitioner - Fast Track",
+		"CourseDuration": "2",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "75057"
+	},
+	{
+		"Course_ID": "QACYBEXEC",
+		"CourseTitle": "Cyber Security for Executives",
+		"CourseDuration": "1",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Awareness",
+		"Active": "Y",
+		"FinalPricce": "75278"
+	},
+	{
+		"Course_ID": "QACYCSA",
+		"CourseTitle": "Cloud Security Architecture",
+		"CourseDuration": "2",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Security Operations",
+		"Active": "Y",
+		"FinalPricce": "75810"
+	},
+	{
+		"Course_ID": "QASPWF13L2",
+		"CourseTitle": "Microsoft SharePoint 2013 Custom Workflows for End Users - Advanced Skills",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SharePoint 2013",
+		"Active": "Y",
+		"FinalPricce": "76076"
+	},
+	{
+		"Course_ID": "QACSRM",
+		"CourseTitle": "Certified Security Risk Manager",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Certifications",
+		"Active": "Y",
+		"FinalPricce": "76608"
+	},
+	{
+		"Course_ID": "QAORAPEX1",
+		"CourseTitle": "Oracle Application Express - Level 1",
+		"CourseDuration": "3",
+		"CourseVendor": "Oracle",
+		"ProductName": "Oracle Applications",
+		"Active": "Y",
+		"FinalPricce": "77246"
+	},
+	{
+		"Course_ID": "QACYNETSEC",
+		"CourseTitle": "Network Security Foundation",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Security Operations",
+		"Active": "Y",
+		"FinalPricce": "77406"
+	},
+	{
+		"Course_ID": "QASPOTSM",
+		"CourseTitle": "Microsoft SharePoint Online Team Site Management",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SharePoint Online",
+		"Active": "Y",
+		"FinalPricce": "77406"
+	},
+	{
+		"Course_ID": "QATDDVB",
+		"CourseTitle": "Test Driven Development (Workshop) VB",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "TDD",
+		"Active": "Y",
+		"FinalPricce": "77406"
+	},
+	{
+		"Course_ID": "QACRMADM",
+		"CourseTitle": "Microsoft Dynamics CRM and Dynamics 365 Administration",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Dynamics CRM",
+		"Active": "Y",
+		"FinalPricce": "78949"
+	},
+	{
+		"Course_ID": "QAMPA",
+		"CourseTitle": "Managing Projects in Agile with Scrum",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "79268"
+	},
+	{
+		"Course_ID": "QAICAAF",
+		"CourseTitle": "ICAgile - Agile Fundamentals",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "iCAgile",
+		"Active": "Y",
+		"FinalPricce": "79534"
+	},
+	{
+		"Course_ID": "QAWNTAT",
+		"CourseTitle": "Working in a Non-Technical Agile Team",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Agile Programme Management",
+		"Active": "Y",
+		"FinalPricce": "79800"
+	},
+	{
+		"Course_ID": "PPMP2AGF",
+		"CourseTitle": "PRINCE2 (R) Agile Foundation Certificate in Agile Project Management",
+		"CourseDuration": "2",
+		"CourseVendor": "PRINCE2 (R)",
+		"ProductName": "PRINCE2 (R) Agile",
+		"Active": "Y",
+		"FinalPricce": "79836"
+	},
+	{
+		"Course_ID": "QASPPTSM",
+		"CourseTitle": "Microsoft SharePoint On-Premises Team Site Management (2013 & 2016)",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Sharepoint 2016",
+		"Active": "Y",
+		"FinalPricce": "80066"
+	},
+	{
+		"Course_ID": "QAISO20KP",
+		"CourseTitle": "ISO/IEC 20000 Practitioner",
+		"CourseDuration": "3",
+		"CourseVendor": "ISO",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "81928"
+	},
+	{
+		"Course_ID": "QACRMRS",
+		"CourseTitle": "Reporting in Microsoft Dynamics 365",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Dynamics 365",
+		"Active": "Y",
+		"FinalPricce": "82194"
+	},
+	{
+		"Course_ID": "QATPSM",
+		"CourseTitle": "Working as a Scrum Master in Agile Teams",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "82460"
+	},
+	{
+		"Course_ID": "QATPSPO",
+		"CourseTitle": "Working as a Product Owner in Agile Teams",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "82460"
+	},
+	{
+		"Course_ID": "QAALTAE",
+		"CourseTitle": "ISTQB Advanced Level Test Automation Test Engineer",
+		"CourseDuration": "3",
+		"CourseVendor": "BSD Testing Skills",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "83258"
+	},
+	{
+		"Course_ID": "QAISO20KF",
+		"CourseTitle": "ISO/IEC 20000 Foundation",
+		"CourseDuration": "3",
+		"CourseVendor": "ISO",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "83790"
+	},
+	{
+		"Course_ID": "QAPSF",
+		"CourseTitle": "Professional Scrum Foundations",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "84854"
+	},
+	{
+		"Course_ID": "QACISM",
+		"CourseTitle": "Certified Information Security Manager",
+		"CourseDuration": "4",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Certifications",
+		"Active": "Y",
+		"FinalPricce": "85120"
+	},
+	{
+		"Course_ID": "QAUSMPBL",
+		"CourseTitle": "Agile User Story Mapping Performance Based Learning",
+		"CourseDuration": "1",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "85120"
+	},
+	{
+		"Course_ID": "MB200T01",
+		"CourseTitle": "Dynamics 365: Power Platform Applications",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Dynamics 365",
+		"Active": "Y",
+		"FinalPricce": "85130"
+	},
+	{
+		"Course_ID": "QATTSR",
+		"CourseTitle": "Bug Hunting Tools & Techniques",
+		"CourseDuration": "2",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Offensive Defence",
+		"Active": "Y",
+		"FinalPricce": "85386"
+	},
+	{
+		"Course_ID": "QAENTCP",
+		"CourseTitle": "Ethernet Networking with TCP IP",
+		"CourseDuration": "2",
+		"CourseVendor": "Voice and Data Communications",
+		"ProductName": "Voice and Data Communications",
+		"Active": "Y",
+		"FinalPricce": "85652"
+	},
+	{
+		"Course_ID": "QAINTDAT",
+		"CourseTitle": "Introduction to Data Communications",
+		"CourseDuration": "2",
+		"CourseVendor": "Voice and Data Communications",
+		"ProductName": "Voice and Data Communications",
+		"Active": "Y",
+		"FinalPricce": "85652"
+	},
+	{
+		"Course_ID": "QAINTTEL",
+		"CourseTitle": "Introduction to Telecommunications",
+		"CourseDuration": "2",
+		"CourseVendor": "Voice and Data Communications",
+		"ProductName": "Voice and Data Communications",
+		"Active": "Y",
+		"FinalPricce": "85652"
+	},
+	{
+		"Course_ID": "QAIP6FUN",
+		"CourseTitle": "TCP IP version 6 Fundamentals",
+		"CourseDuration": "2",
+		"CourseVendor": "Voice and Data Communications",
+		"ProductName": "Voice and Data Communications",
+		"Active": "Y",
+		"FinalPricce": "85652"
+	},
+	{
+		"Course_ID": "QAPSM",
+		"CourseTitle": "Professional Scrum Master",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "86450"
+	},
+	{
+		"Course_ID": "QAPTS",
+		"CourseTitle": "Programming with TypeScript",
+		"CourseDuration": "2",
+		"CourseVendor": "Internet Technologies",
+		"ProductName": "Typescript",
+		"Active": "Y",
+		"FinalPricce": "86450"
+	},
+	{
+		"Course_ID": "QAPAQ",
+		"CourseTitle": "Practitioner in Agile Quality (inc. examination)",
+		"CourseDuration": "3",
+		"CourseVendor": "BSD Testing Skills",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "87780"
+	},
+	{
+		"Course_ID": "QACCBCSEC",
+		"CourseTitle": "Crypto Currency Forensics and Block Chain Security",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Digital Forensics",
+		"Active": "Y",
+		"FinalPricce": "88046"
+	},
+	{
+		"Course_ID": "QAIDIGFOR",
+		"CourseTitle": "Certificate in Digital Forensics Fundamentals",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Digital Forensics",
+		"Active": "Y",
+		"FinalPricce": "88046"
+	},
+	{
+		"Course_ID": "QAWAT",
+		"CourseTitle": "Working in an Agile Team",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Developer",
+		"Active": "Y",
+		"FinalPricce": "88046"
+	},
+	{
+		"Course_ID": "QACISA",
+		"CourseTitle": "Certified Information Systems Auditor",
+		"CourseDuration": "4",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Certifications",
+		"Active": "Y",
+		"FinalPricce": "88578"
+	},
+	{
+		"Course_ID": "QAVOIP",
+		"CourseTitle": "Voice Over Internet Protocol and Convergence",
+		"CourseDuration": "2",
+		"CourseVendor": "Voice and Data Communications",
+		"ProductName": "Voice and Data Communications",
+		"Active": "Y",
+		"FinalPricce": "89110"
+	},
+	{
+		"Course_ID": "QAPSPO",
+		"CourseTitle": "Professional Scrum Product Owner",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "89908"
+	},
+	{
+		"Course_ID": "VCITILF",
+		"CourseTitle": "ITIL(R) Foundation Certificate in IT Service Management with exam",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "90476"
+	},
+	{
+		"Course_ID": "QAMSINTUNE",
+		"CourseTitle": "Mastering Modern Desktop and Mobile Device Administration with Microsoft Intune",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows 10",
+		"Active": "Y",
+		"FinalPricce": "90706"
+	},
+	{
+		"Course_ID": "QAP2FP",
+		"CourseTitle": "PRINCE2:2017 (R) Foundation and Practitioner (inc. Examinations)",
+		"CourseDuration": "5",
+		"CourseVendor": "PRINCE2 (R)",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "91504"
+	},
+	{
+		"Course_ID": "QAEAPBS",
+		"CourseTitle": "Professional IT and Business Admin Skills",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2013",
+		"Active": "Y",
+		"FinalPricce": "92036"
+	},
+	{
+		"Course_ID": "QAPCBPR",
+		"CourseTitle": "BCS Professional Certificate in Benefits Planning and Realisation",
+		"CourseDuration": "3",
+		"CourseVendor": "BCS Business Systems",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "92036"
+	},
+	{
+		"Course_ID": "QATDDCS",
+		"CourseTitle": "Test Driven Development for C# Developers",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "TDD",
+		"Active": "Y",
+		"FinalPricce": "92834"
+	},
+	{
+		"Course_ID": "QATDDJAVA",
+		"CourseTitle": "Test Driven Development in a Java Environment",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "TDD",
+		"Active": "Y",
+		"FinalPricce": "92834"
+	},
+	{
+		"Course_ID": "QACOBIT5F",
+		"CourseTitle": "COBIT 5 Foundation",
+		"CourseDuration": "3",
+		"CourseVendor": "COBIT",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "93632"
+	},
+	{
+		"Course_ID": "M20778",
+		"CourseTitle": "Analyzing Data with Power BI",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft PowerBI",
+		"Active": "Y",
+		"FinalPricce": "93946"
+	},
+	{
+		"Course_ID": "M20779",
+		"CourseTitle": "Analyzing Data with Excel",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "93946"
+	},
+	{
+		"Course_ID": "QAPCBF",
+		"CourseTitle": "BCS Professional Certificate in Business Finance",
+		"CourseDuration": "3",
+		"CourseVendor": "BCS Business Systems",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "94164"
+	},
+	{
+		"Course_ID": "MDP100",
+		"CourseTitle": "Designing and Implementing a Data Science Solution on Azure",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Azure Data and AI",
+		"Active": "Y",
+		"FinalPricce": "95048"
+	},
+	{
+		"Course_ID": "QASTATA",
+		"CourseTitle": "ISTQB Advanced Test Analyst Certificate (4 days)",
+		"CourseDuration": "4",
+		"CourseVendor": "BSD Testing Skills",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "95228"
+	},
+	{
+		"Course_ID": "QAPCABA",
+		"CourseTitle": "BCS Professional Certificate in Agile Business Analysis",
+		"CourseDuration": "3",
+		"CourseVendor": "BCS Business Systems",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "95494"
+	},
+	{
+		"Course_ID": "QASIAMF",
+		"CourseTitle": "BCS EXIN Foundation Certificate in SIAM",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "95494"
+	},
+	{
+		"Course_ID": "QAPBA3",
+		"CourseTitle": "Practical Business Analysis (Standard)",
+		"CourseDuration": "3",
+		"CourseVendor": "Generic Business Systems Development",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "96026"
+	},
+	{
+		"Course_ID": "QABAPM",
+		"CourseTitle": "Business Analysis for Project Managers",
+		"CourseDuration": "3",
+		"CourseVendor": "Generic Business Systems Development",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "96292"
+	},
+	{
+		"Course_ID": "QABARCH",
+		"CourseTitle": "Business Architecture for Enterprise Architects",
+		"CourseDuration": "3",
+		"CourseVendor": "Generic Business Systems Development",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "97356"
+	},
+	{
+		"Course_ID": "M10985",
+		"CourseTitle": "Introduction to SQL Databases",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "97803"
+	},
+	{
+		"Course_ID": "M10986",
+		"CourseTitle": "Updating Your Skills to SQL Server 2016",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "97803"
+	},
+	{
+		"Course_ID": "M20465D",
+		"CourseTitle": "Designing Solutions for Microsoft SQL Server 2014",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2014",
+		"Active": "Y",
+		"FinalPricce": "97803"
+	},
+	{
+		"Course_ID": "MDP200",
+		"CourseTitle": "Implementing an Azure Data Solution",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Azure Data and AI",
+		"Active": "Y",
+		"FinalPricce": "97803"
+	},
+	{
+		"Course_ID": "ITIL4F",
+		"CourseTitle": "ITIL(R) 4 Foundation Certificate in IT Service Management",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "97812"
+	},
+	{
+		"Course_ID": "ITILF",
+		"CourseTitle": "ITIL(R) v3 Foundation Certificate in IT Service Management",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "97812"
+	},
+	{
+		"Course_ID": "QAISO27701",
+		"CourseTitle": "Certified ISO/IEC 27701 Lead Implementer",
+		"CourseDuration": "4",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Compliance",
+		"Active": "Y",
+		"FinalPricce": "98154"
+	},
+	{
+		"Course_ID": "QAISO27KLA",
+		"CourseTitle": "Certified ISO/IEC 27001 Lead Auditor",
+		"CourseDuration": "4",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Compliance",
+		"Active": "Y",
+		"FinalPricce": "98154"
+	},
+	{
+		"Course_ID": "QAISO27KLI",
+		"CourseTitle": "Certified ISO/IEC 27001 Lead Implementer",
+		"CourseDuration": "4",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Compliance",
+		"Active": "Y",
+		"FinalPricce": "98154"
+	},
+	{
+		"Course_ID": "QATSQL",
+		"CourseTitle": "Querying SQL Databases using T-SQL",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2012",
+		"Active": "Y",
+		"FinalPricce": "98154"
+	},
+	{
+		"Course_ID": "VMWAREVCDOA",
+		"CourseTitle": "VMware vCloud Director: Organization Administration",
+		"CourseDuration": "2",
+		"CourseVendor": "VMWARE",
+		"ProductName": "VMware vSphere 5.0",
+		"Active": "Y",
+		"FinalPricce": "98924"
+	},
+	{
+		"Course_ID": "QAADMC",
+		"CourseTitle": "Adobe Suite Masterclass",
+		"CourseDuration": "5",
+		"CourseVendor": "Adobe",
+		"ProductName": "Adobe Indesign CS6",
+		"Active": "Y",
+		"FinalPricce": "99218"
+	},
+	{
+		"Course_ID": "QAIDME",
+		"CourseTitle": "Information and Data Modelling for the Enterprise",
+		"CourseDuration": "3",
+		"CourseVendor": "Generic Business Systems Development",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "99218"
+	},
+	{
+		"Course_ID": "VMWARESRM61",
+		"CourseTitle": "VMware Site Recovery Manager: Install, Configure, Manage [V6.1]",
+		"CourseDuration": "2",
+		"CourseVendor": "VMWARE",
+		"ProductName": "VMware vSphere 6.0",
+		"Active": "Y",
+		"FinalPricce": "99294"
+	},
+	{
+		"Course_ID": "VMWAREVRO6X",
+		"CourseTitle": "VMware vRealize Operations for Operators [V6.x]",
+		"CourseDuration": "2",
+		"CourseVendor": "VMWARE",
+		"ProductName": "VMware vRealize",
+		"Active": "Y",
+		"FinalPricce": "99294"
+	},
+	{
+		"Course_ID": "QAICESA",
+		"CourseTitle": "BCS Intermediate Certificate in Enterprise and Solution Architecture",
+		"CourseDuration": "3",
+		"CourseVendor": "BCS Enterprise Architecture",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "99484"
+	},
+	{
+		"Course_ID": "QAPCESA",
+		"CourseTitle": "BCS Practitioner Certificate in Enterprise and Solution Architecture",
+		"CourseDuration": "3",
+		"CourseVendor": "BCS Enterprise Architecture",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "99484"
+	},
+	{
+		"Course_ID": "VMWARESRM82",
+		"CourseTitle": "VMware Site Recovery Manager: Install, Configure, Manage [V8.2]",
+		"CourseDuration": "2",
+		"CourseVendor": "VMWARE",
+		"ProductName": "VMware Site recovery Manager",
+		"Active": "Y",
+		"FinalPricce": "99665"
+	},
+	{
+		"Course_ID": "QACDADS",
+		"CourseTitle": "Continuous Delivery Using Azure DevOps Services",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Azure",
+		"Active": "Y",
+		"FinalPricce": "99750"
+	},
+	{
+		"Course_ID": "QABDC",
+		"CourseTitle": "Building a Digital Culture",
+		"CourseDuration": "2",
+		"CourseVendor": "Digital Transformations",
+		"ProductName": "Digital Transformation",
+		"Active": "Y",
+		"FinalPricce": "100016"
+	},
+	{
+		"Course_ID": "QADDS",
+		"CourseTitle": "Defining Digital Strategy",
+		"CourseDuration": "2",
+		"CourseVendor": "Digital Transformations",
+		"ProductName": "Digital Transformation",
+		"Active": "Y",
+		"FinalPricce": "100016"
+	},
+	{
+		"Course_ID": "QAHPDT",
+		"CourseTitle": "High Performing Digital Teams",
+		"CourseDuration": "2",
+		"CourseVendor": "Digital Transformations",
+		"ProductName": "Digital Transformation",
+		"Active": "Y",
+		"FinalPricce": "100016"
+	},
+	{
+		"Course_ID": "QAINNOT",
+		"CourseTitle": "Innovation Thinking",
+		"CourseDuration": "2",
+		"CourseVendor": "Digital Transformations",
+		"ProductName": "Digital Transformation",
+		"Active": "Y",
+		"FinalPricce": "100016"
+	},
+	{
+		"Course_ID": "QALDDBP",
+		"CourseTitle": "Leading Data Driven Business and Projects Workshop",
+		"CourseDuration": "2",
+		"CourseVendor": "Digital Transformations",
+		"ProductName": "Digital Transformation",
+		"Active": "Y",
+		"FinalPricce": "100016"
+	},
+	{
+		"Course_ID": "QASQLRB08",
+		"CourseTitle": "Data Analysis with Microsoft SQL Report Builder",
+		"CourseDuration": "2",
+		"CourseVendor": "Database and Business Intelligence",
+		"ProductName": "Database and Business Intelligence",
+		"Active": "Y",
+		"FinalPricce": "100282"
+	},
+	{
+		"Course_ID": "VMWAREOPS67",
+		"CourseTitle": "VMware vSphere Skills for Operators [V6.7]",
+		"CourseDuration": "2",
+		"CourseVendor": "VMWARE",
+		"ProductName": "VMware vSphere 6.0",
+		"Active": "Y",
+		"FinalPricce": "100776"
+	},
+	{
+		"Course_ID": "QASCATP",
+		"CourseTitle": "APMG Service Catalogue",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "101080"
+	},
+	{
+		"Course_ID": "QAIHACK",
+		"CourseTitle": "Infrastructure Hacking",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Offensive Defence",
+		"Active": "Y",
+		"FinalPricce": "101612"
+	},
+	{
+		"Course_ID": "ITILP3",
+		"CourseTitle": "ITIL(R) Practitioner",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "102906"
+	},
+	{
+		"Course_ID": "M20768",
+		"CourseTitle": "Developing SQL Data Models",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "103037"
+	},
+	{
+		"Course_ID": "M10997",
+		"CourseTitle": "Office 365 Administration and Troubleshooting",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "103313"
+	},
+	{
+		"Course_ID": "QASQLRS",
+		"CourseTitle": "Creating Reports using SSRS Report Designer",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "103474"
+	},
+	{
+		"Course_ID": "QATSQLPLUS",
+		"CourseTitle": "Intermediate Querying SQL Databases using T-SQL",
+		"CourseDuration": "2",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "103474"
+	},
+	{
+		"Course_ID": "QABRMP",
+		"CourseTitle": "Business Relationship Management Professional (BRMP)",
+		"CourseDuration": "3",
+		"CourseVendor": "BRMP",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "103740"
+	},
+	{
+		"Course_ID": "M10962",
+		"CourseTitle": "Advanced Automated Administration with Windows PowerShell",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Powershell",
+		"Active": "Y",
+		"FinalPricce": "104690"
+	},
+	{
+		"Course_ID": "PPMP2AG",
+		"CourseTitle": "PRINCE2 (R) Agile Practitioner Certificate in Agile Project Management",
+		"CourseDuration": "3",
+		"CourseVendor": "PRINCE2 (R)",
+		"ProductName": "PRINCE2 (R) Agile",
+		"Active": "Y",
+		"FinalPricce": "104844"
+	},
+	{
+		"Course_ID": "M10974",
+		"CourseTitle": "Deploying and Migrating Windows Servers",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2012",
+		"Active": "Y",
+		"FinalPricce": "105241"
+	},
+	{
+		"Course_ID": "M20335",
+		"CourseTitle": "Lync Network Readiness Assessment",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Lync Server 2013",
+		"Active": "Y",
+		"FinalPricce": "105241"
+	},
+	{
+		"Course_ID": "QAAPPSEC",
+		"CourseTitle": "Application Security for Developers",
+		"CourseDuration": "2",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Secure Developer",
+		"Active": "Y",
+		"FinalPricce": "105336"
+	},
+	{
+		"Course_ID": "QACAPM6",
+		"CourseTitle": "Preparing for the CAPM (R) Certification",
+		"CourseDuration": "3",
+		"CourseVendor": "Project Management Institute (PMI)",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "105602"
+	},
+	{
+		"Course_ID": "QAEX16MC",
+		"CourseTitle": "Microsoft Excel 2016 Master Class",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 2016",
+		"Active": "Y",
+		"FinalPricce": "106400"
+	},
+	{
+		"Course_ID": "ITIL4SDSV",
+		"CourseTitle": "ITIL 4 Specialist: Drive Stakeholder Value",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "106846"
+	},
+	{
+		"Course_ID": "QADEVSECOPS",
+		"CourseTitle": "DevSecOps 'Hands-on'",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Secure Developer",
+		"Active": "Y",
+		"FinalPricce": "108528"
+	},
+	{
+		"Course_ID": "ITILLCSI",
+		"CourseTitle": "ITIL(R) Lifecycle Certificate in Continual Service Improvement",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "109359"
+	},
+	{
+		"Course_ID": "ITILLSD",
+		"CourseTitle": "ITIL(R) Lifecycle Certificate in Service Design",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "109359"
+	},
+	{
+		"Course_ID": "ITILLSO",
+		"CourseTitle": "ITIL(R) Lifecycle Certificate in Service Operations",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "109359"
+	},
+	{
+		"Course_ID": "ITILLST",
+		"CourseTitle": "ITIL(R) Lifecycle Certificate in Service Transition",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "109359"
+	},
+	{
+		"Course_ID": "GCPADP",
+		"CourseTitle": "Architecting with Google Cloud Platform: Design and Process",
+		"CourseDuration": "2",
+		"CourseVendor": "Google",
+		"ProductName": "Google Cloud Platform",
+		"Active": "Y",
+		"FinalPricce": "110124"
+	},
+	{
+		"Course_ID": "GCPNWGCP",
+		"CourseTitle": "Networking in Google Cloud Platform",
+		"CourseDuration": "2",
+		"CourseVendor": "Google",
+		"ProductName": "Google Cloud Platform",
+		"Active": "Y",
+		"FinalPricce": "110124"
+	},
+	{
+		"Course_ID": "QAGGLWEB",
+		"CourseTitle": "Effective Web Development with the Google Web Toolkit",
+		"CourseDuration": "3",
+		"CourseVendor": "Internet Technologies",
+		"ProductName": "Web Site Development",
+		"Active": "Y",
+		"FinalPricce": "112518"
+	},
+	{
+		"Course_ID": "QASPOMC",
+		"CourseTitle": "Microsoft SharePoint Online Master Class",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SharePoint Online",
+		"Active": "Y",
+		"FinalPricce": "112518"
+	},
+	{
+		"Course_ID": "M10987",
+		"CourseTitle": "Performance Tuning and Optimizing SQL Databases.",
+		"CourseDuration": "4",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "112680"
+	},
+	{
+		"Course_ID": "QASMTS",
+		"CourseTitle": "BCS Certificate in Systems Modelling Techniques",
+		"CourseDuration": "3",
+		"CourseVendor": "BCS Business Systems",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "113316"
+	},
+	{
+		"Course_ID": "QASTATM",
+		"CourseTitle": "ISTQB Advanced Test Manager Certificate (5 days)",
+		"CourseDuration": "5",
+		"CourseVendor": "BSD Testing Skills",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "113316"
+	},
+	{
+		"Course_ID": "ITILLSS",
+		"CourseTitle": "ITIL(R) Lifecycle Certificate in Service Strategy",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "113774"
+	},
+	{
+		"Course_ID": "QASDT",
+		"CourseTitle": "BCS Certificate in Systems Design Techniques (including exam)",
+		"CourseDuration": "4",
+		"CourseVendor": "BCS Business Systems",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "113848"
+	},
+	{
+		"Course_ID": "BCSSCM",
+		"CourseTitle": "BCS Specialist Certificate in Change Management",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "114793"
+	},
+	{
+		"Course_ID": "BCSSPM",
+		"CourseTitle": "BCS Specialist Certificate in Problem Management",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "114793"
+	},
+	{
+		"Course_ID": "BCSSSM",
+		"CourseTitle": "BCS Specialist Certificate in Supplier Management",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "114793"
+	},
+	{
+		"Course_ID": "ITIL4SCDS",
+		"CourseTitle": "ITIL (R) 4 Specialist: Create, Deliver and Support",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "114793"
+	},
+	{
+		"Course_ID": "ITIL4SDPI",
+		"CourseTitle": "ITIL (R) 4 Strategist: Direct, Plan and Improve",
+		"CourseDuration": "3",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "114793"
+	},
+	{
+		"Course_ID": "QASPPMC",
+		"CourseTitle": "Microsoft SharePoint On-Premises Master Class (2013 & 2016)",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Sharepoint 2016",
+		"Active": "Y",
+		"FinalPricce": "117040"
+	},
+	{
+		"Course_ID": "MAZ301",
+		"CourseTitle": "Microsoft Azure Solutions Architect - Design",
+		"CourseDuration": "4",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Azure",
+		"Active": "Y",
+		"FinalPricce": "117088"
+	},
+	{
+		"Course_ID": "MAZ500",
+		"CourseTitle": "Microsoft Azure Security Technologies",
+		"CourseDuration": "4",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Azure",
+		"Active": "Y",
+		"FinalPricce": "117088"
+	},
+	{
+		"Course_ID": "MS500",
+		"CourseTitle": "Microsoft 365 Security Administrator",
+		"CourseDuration": "4",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "117088"
+	},
+	{
+		"Course_ID": "QACAP",
+		"CourseTitle": "Combined Foundation and practitioner in Agile Testing (inc. examination)",
+		"CourseDuration": "5",
+		"CourseVendor": "BSD Testing Skills",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "117572"
+	},
+	{
+		"Course_ID": "AMWSM",
+		"CourseTitle": "Migrating to AWS",
+		"CourseDuration": "2",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "117990"
+	},
+	{
+		"Course_ID": "QAABAFP",
+		"CourseTitle": "APMG Agile Business Analysis Foundation and Practitioner - AgileBA(R)",
+		"CourseDuration": "4",
+		"CourseVendor": "APMG",
+		"ProductName": "Agile Business Analyst",
+		"Active": "Y",
+		"FinalPricce": "118104"
+	},
+	{
+		"Course_ID": "QACIPM",
+		"CourseTitle": "Certified Information Privacy Manager",
+		"CourseDuration": "2",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Compliance",
+		"Active": "Y",
+		"FinalPricce": "118902"
+	},
+	{
+		"Course_ID": "QACIPP",
+		"CourseTitle": "Certified Information Privacy Professional",
+		"CourseDuration": "2",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Compliance",
+		"Active": "Y",
+		"FinalPricce": "118902"
+	},
+	{
+		"Course_ID": "QACIPT",
+		"CourseTitle": "Certified Information Privacy Technologist",
+		"CourseDuration": "2",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Compliance",
+		"Active": "Y",
+		"FinalPricce": "118902"
+	},
+	{
+		"Course_ID": "QASPS",
+		"CourseTitle": "Scaled Professional Scrum",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Developer",
+		"Active": "Y",
+		"FinalPricce": "119168"
+	},
+	{
+		"Course_ID": "QAICT",
+		"CourseTitle": "Understanding Modern Information and Communication Technology",
+		"CourseDuration": "3",
+		"CourseVendor": "Voice and Data Communications",
+		"ProductName": "Voice and Data Communications",
+		"Active": "Y",
+		"FinalPricce": "121030"
+	},
+	{
+		"Course_ID": "QASECDEV",
+		"CourseTitle": "Secure by Design",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Secure Developer",
+		"Active": "Y",
+		"FinalPricce": "122360"
+	},
+	{
+		"Course_ID": "QAADVNET",
+		"CourseTitle": "Advanced Ethernet (layer 2) Networking",
+		"CourseDuration": "3",
+		"CourseVendor": "Voice and Data Communications",
+		"ProductName": "Voice and Data Communications",
+		"Active": "Y",
+		"FinalPricce": "123424"
+	},
+	{
+		"Course_ID": "QAADVTCP",
+		"CourseTitle": "Advanced TCP IP",
+		"CourseDuration": "3",
+		"CourseVendor": "Voice and Data Communications",
+		"ProductName": "Voice and Data Communications",
+		"Active": "Y",
+		"FinalPricce": "123424"
+	},
+	{
+		"Course_ID": "QAWATKB",
+		"CourseTitle": "Working in an Agile team using Kanban",
+		"CourseDuration": "2",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "123424"
+	},
+	{
+		"Course_ID": "QAPBA4S",
+		"CourseTitle": "Practical Business Analysis (Enhanced : Soft Skills)",
+		"CourseDuration": "4",
+		"CourseVendor": "Generic Business Systems Development",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "125818"
+	},
+	{
+		"Course_ID": "QAPBA4D",
+		"CourseTitle": "Practical Business Analysis (Enhanced : Data)",
+		"CourseDuration": "4",
+		"CourseVendor": "Generic Business Systems Development",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "126084"
+	},
+	{
+		"Course_ID": "QAJQUERY",
+		"CourseTitle": "Leveraging the Power of JQuery",
+		"CourseDuration": "3",
+		"CourseVendor": "Internet Technologies",
+		"ProductName": "jQuery",
+		"Active": "Y",
+		"FinalPricce": "126882"
+	},
+	{
+		"Course_ID": "QAAMUA3",
+		"CourseTitle": "Enterprise Architecture Modelling using ArchiMate(R) 3",
+		"CourseDuration": "4",
+		"CourseVendor": "The Open Group",
+		"ProductName": "Archimate 2",
+		"Active": "Y",
+		"FinalPricce": "127946"
+	},
+	{
+		"Course_ID": "QADM",
+		"CourseTitle": "Dimensional Modelling",
+		"CourseDuration": "3",
+		"CourseVendor": "Database and Business Intelligence",
+		"ProductName": "Database and Business Intelligence",
+		"Active": "Y",
+		"FinalPricce": "128478"
+	},
+	{
+		"Course_ID": "QAFCCS",
+		"CourseTitle": "Foundation Certificate in Cyber Security",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Certifications",
+		"Active": "Y",
+		"FinalPricce": "129542"
+	},
+	{
+		"Course_ID": "QAAPPVIMP5",
+		"CourseTitle": "Implementing and Migration to Microsoft Application Virtualization (App-V) 5.0",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Desktop Operating Systems",
+		"Active": "Y",
+		"FinalPricce": "131936"
+	},
+	{
+		"Course_ID": "QAAPPVSEQ5",
+		"CourseTitle": "Sequencing Applications using Microsoft Application Virtualization 5.1 on Windows 10",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Desktop Operating Systems",
+		"Active": "Y",
+		"FinalPricce": "131936"
+	},
+	{
+		"Course_ID": "M10990",
+		"CourseTitle": "Analyzing Data with SQL Server Reporting Services",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "131965"
+	},
+	{
+		"Course_ID": "M20740",
+		"CourseTitle": "Installation, Storage and Compute with Windows Server 2016",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2016",
+		"Active": "Y",
+		"FinalPricce": "131965"
+	},
+	{
+		"Course_ID": "M20742",
+		"CourseTitle": "Identity with Windows Server 2016",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2016",
+		"Active": "Y",
+		"FinalPricce": "131965"
+	},
+	{
+		"Course_ID": "M20743",
+		"CourseTitle": "Upgrading Your Skills to Windows Server 2016 MCSA",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2016",
+		"Active": "Y",
+		"FinalPricce": "131965"
+	},
+	{
+		"Course_ID": "M20744",
+		"CourseTitle": "Securing Windows Server 2016",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2016",
+		"Active": "Y",
+		"FinalPricce": "131965"
+	},
+	{
+		"Course_ID": "M20761",
+		"CourseTitle": "Querying Data with Transact-SQL",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "131965"
+	},
+	{
+		"Course_ID": "M20762",
+		"CourseTitle": "Developing SQL Databases",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "131965"
+	},
+	{
+		"Course_ID": "M20764",
+		"CourseTitle": "Administering a SQL Database Infrastructure",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "131965"
+	},
+	{
+		"Course_ID": "M20765",
+		"CourseTitle": "Provisioning SQL Databases",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "131965"
+	},
+	{
+		"Course_ID": "M20767",
+		"CourseTitle": "Implementing a SQL Data Warehouse",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "131965"
+	},
+	{
+		"Course_ID": "QAPROGFOU",
+		"CourseTitle": "Programming Foundations",
+		"CourseDuration": "3",
+		"CourseVendor": "C, C++, COBOL",
+		"ProductName": "C",
+		"Active": "Y",
+		"FinalPricce": "132202"
+	},
+	{
+		"Course_ID": "QSDMFLJAVA",
+		"CourseTitle": "Quality Software Development : Maintainability Foundation Level (Java Version)",
+		"CourseDuration": "2",
+		"CourseVendor": "Applications Programming",
+		"ProductName": "Peoplecert",
+		"Active": "Y",
+		"FinalPricce": "132202"
+	},
+	{
+		"Course_ID": "M10971",
+		"CourseTitle": "Storage and High Availability with Windows Server",
+		"CourseDuration": "4",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2012",
+		"Active": "Y",
+		"FinalPricce": "132240"
+	},
+	{
+		"Course_ID": "QANISDIR",
+		"CourseTitle": "Security of Network and Information Systems Directive (NIS)",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "HMG Information Assurance",
+		"Active": "Y",
+		"FinalPricce": "133532"
+	},
+	{
+		"Course_ID": "QADMMFST",
+		"CourseTitle": "Fundamentals of Statistics for Data Analysis",
+		"CourseDuration": "3",
+		"CourseVendor": "Database and Business Intelligence",
+		"ProductName": "Data Science and Machine Learning",
+		"Active": "Y",
+		"FinalPricce": "134064"
+	},
+	{
+		"Course_ID": "QADMNFBD",
+		"CourseTitle": "Fundamentals of Big Data",
+		"CourseDuration": "3",
+		"CourseVendor": "Database and Business Intelligence",
+		"ProductName": "Big Data",
+		"Active": "Y",
+		"FinalPricce": "134064"
+	},
+	{
+		"Course_ID": "QADMPFR",
+		"CourseTitle": "Fundamentals of R",
+		"CourseDuration": "3",
+		"CourseVendor": "Database and Business Intelligence",
+		"ProductName": "Data Science and Machine Learning",
+		"Active": "Y",
+		"FinalPricce": "134064"
+	},
+	{
+		"Course_ID": "QADMSFDS",
+		"CourseTitle": "Fundamentals of Data Science",
+		"CourseDuration": "3",
+		"CourseVendor": "Database and Business Intelligence",
+		"ProductName": "Data Science and Machine Learning",
+		"Active": "Y",
+		"FinalPricce": "134064"
+	},
+	{
+		"Course_ID": "QADMSFML",
+		"CourseTitle": "Fundamentals of Machine Learning",
+		"CourseDuration": "3",
+		"CourseVendor": "Database and Business Intelligence",
+		"ProductName": "Data Science and Machine Learning",
+		"Active": "Y",
+		"FinalPricce": "134064"
+	},
+	{
+		"Course_ID": "M203392",
+		"CourseTitle": "Advanced Technologies of Sharepoint 2016",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Sharepoint 2016",
+		"Active": "Y",
+		"FinalPricce": "134444"
+	},
+	{
+		"Course_ID": "M10961",
+		"CourseTitle": "Automating Administration with Windows PowerShell",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Powershell",
+		"Active": "Y",
+		"FinalPricce": "134720"
+	},
+	{
+		"Course_ID": "M10982",
+		"CourseTitle": "Supporting and Troubleshooting Windows 10",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows 10",
+		"Active": "Y",
+		"FinalPricce": "134720"
+	},
+	{
+		"Course_ID": "QADEVOPSCUL",
+		"CourseTitle": "Building a DevOps Culture",
+		"CourseDuration": "3",
+		"CourseVendor": "DevOps",
+		"ProductName": "Devops",
+		"Active": "Y",
+		"FinalPricce": "135128"
+	},
+	{
+		"Course_ID": "QACGDPRP",
+		"CourseTitle": "Certified GDPR Foundation and Practitioner",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Compliance",
+		"Active": "Y",
+		"FinalPricce": "135660"
+	},
+	{
+		"Course_ID": "QAPCCS",
+		"CourseTitle": "Practitioner Certificate in Cloud Security",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Security Operations",
+		"Active": "Y",
+		"FinalPricce": "135660"
+	},
+	{
+		"Course_ID": "QA365TEAMST",
+		"CourseTitle": "Mastering Office 365 Teams Deployment and Administration",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "136192"
+	},
+	{
+		"Course_ID": "QASPHYBRID",
+		"CourseTitle": "Mastering Sharepoint 2016 Hybrid Deployments - Hands On",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "136192"
+	},
+	{
+		"Course_ID": "QASWIFT",
+		"CourseTitle": "The Swift Programming Language",
+		"CourseDuration": "3",
+		"CourseVendor": "Apple",
+		"ProductName": "Swift",
+		"Active": "Y",
+		"FinalPricce": "136192"
+	},
+	{
+		"Course_ID": "QAJAVAECL",
+		"CourseTitle": "Java Programming using the Eclipse IDE",
+		"CourseDuration": "5",
+		"CourseVendor": "Java",
+		"ProductName": "Java",
+		"Active": "Y",
+		"FinalPricce": "136458"
+	},
+	{
+		"Course_ID": "M10991",
+		"CourseTitle": "Troubleshooting Windows Server 2016 Core Technologies",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2016",
+		"Active": "Y",
+		"FinalPricce": "137199"
+	},
+	{
+		"Course_ID": "M20741",
+		"CourseTitle": "Networking with Windows Server 2016",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2016",
+		"Active": "Y",
+		"FinalPricce": "137199"
+	},
+	{
+		"Course_ID": "QAMACOSMOCO",
+		"CourseTitle": "macOS Mojave Troubleshooting and Support Combined",
+		"CourseDuration": "5",
+		"CourseVendor": "Apple",
+		"ProductName": "macOS MoJave",
+		"Active": "Y",
+		"FinalPricce": "137256"
+	},
+	{
+		"Course_ID": "M20461",
+		"CourseTitle": "Querying Microsoft SQL Server",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2014",
+		"Active": "Y",
+		"FinalPricce": "137750"
+	},
+	{
+		"Course_ID": "M207031",
+		"CourseTitle": "Administering System Center Configuration Manager",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft System Center 2016",
+		"Active": "Y",
+		"FinalPricce": "137750"
+	},
+	{
+		"Course_ID": "QAPMP6",
+		"CourseTitle": "The Complete PMP (R)",
+		"CourseDuration": "5",
+		"CourseVendor": "Project Management Institute (PMI)",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "139384"
+	},
+	{
+		"Course_ID": "M203451",
+		"CourseTitle": "Administering Microsoft Exchange Server 2016/2019",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Exchange Server 2016",
+		"Active": "Y",
+		"FinalPricce": "139403"
+	},
+	{
+		"Course_ID": "M203452",
+		"CourseTitle": "Designing and Deploying Microsoft Exchange Server 2016/2019",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Exchange Server 2016",
+		"Active": "Y",
+		"FinalPricce": "139679"
+	},
+	{
+		"Course_ID": "QAISOP",
+		"CourseTitle": "Certified ISO 27001 Practitioner",
+		"CourseDuration": "4",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Compliance",
+		"Active": "Y",
+		"FinalPricce": "139916"
+	},
+	{
+		"Course_ID": "M203391",
+		"CourseTitle": "Planning and Administering SharePoint 2016",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Sharepoint 2016",
+		"Active": "Y",
+		"FinalPricce": "141883"
+	},
+	{
+		"Course_ID": "QADEXHE",
+		"CourseTitle": "Mastering Exchange Hybrid Deployments - Hands On",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Exchange Server 2013",
+		"Active": "Y",
+		"FinalPricce": "142576"
+	},
+	{
+		"Course_ID": "M20462",
+		"CourseTitle": "Administering Microsoft SQL Server Databases",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2014",
+		"Active": "Y",
+		"FinalPricce": "142709"
+	},
+	{
+		"Course_ID": "M20463",
+		"CourseTitle": "Implementing a Data Warehouse with Microsoft SQL Server",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2014",
+		"Active": "Y",
+		"FinalPricce": "142709"
+	},
+	{
+		"Course_ID": "M20464",
+		"CourseTitle": "Developing Microsoft SQL Server Databases",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2014",
+		"Active": "Y",
+		"FinalPricce": "142709"
+	},
+	{
+		"Course_ID": "M10970",
+		"CourseTitle": "Networking with Windows Server",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2012",
+		"Active": "Y",
+		"FinalPricce": "143260"
+	},
+	{
+		"Course_ID": "M20410",
+		"CourseTitle": "Installing and Configuring Windows Server 2012",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2012",
+		"Active": "Y",
+		"FinalPricce": "143260"
+	},
+	{
+		"Course_ID": "M20411",
+		"CourseTitle": "Administering Windows Server 2012",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2012",
+		"Active": "Y",
+		"FinalPricce": "143260"
+	},
+	{
+		"Course_ID": "M20412",
+		"CourseTitle": "Configuring Advanced Windows Server 2012 Services",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2012",
+		"Active": "Y",
+		"FinalPricce": "143260"
+	},
+	{
+		"Course_ID": "M20694",
+		"CourseTitle": "Virtualizing Enterprise Desktops and Apps",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows 8",
+		"Active": "Y",
+		"FinalPricce": "143260"
+	},
+	{
+		"Course_ID": "MD100",
+		"CourseTitle": "Microsoft Windows 10",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows 10",
+		"Active": "Y",
+		"FinalPricce": "143260"
+	},
+	{
+		"Course_ID": "QAAEXOE",
+		"CourseTitle": "Mastering Office 365 Exchange Online Administration",
+		"CourseDuration": "3",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Exchange Server 2013",
+		"Active": "Y",
+		"FinalPricce": "143640"
+	},
+	{
+		"Course_ID": "M55039",
+		"CourseTitle": "Windows PowerShell Scripting and Toolmaking",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Powershell",
+		"Active": "Y",
+		"FinalPricce": "144087"
+	},
+	{
+		"Course_ID": "M6294",
+		"CourseTitle": "Planning and Managing Windows 7 Desktop Deployments and Environments",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows 7",
+		"Active": "Y",
+		"FinalPricce": "144087"
+	},
+	{
+		"Course_ID": "MD101",
+		"CourseTitle": "Microsoft Managing Modern Desktops",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows 10",
+		"Active": "Y",
+		"FinalPricce": "144087"
+	},
+	{
+		"Course_ID": "QACSTFA",
+		"CourseTitle": "ISTQB Combined Software Testing Foundation and Agile Extension",
+		"CourseDuration": "5",
+		"CourseVendor": "BSD Testing Skills",
+		"ProductName": "Foundation",
+		"Active": "Y",
+		"FinalPricce": "144172"
+	},
+	{
+		"Course_ID": "M20466",
+		"CourseTitle": "Implementing Data Models and Reports with Microsoft SQL Server",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2014",
+		"Active": "Y",
+		"FinalPricce": "144362"
+	},
+	{
+		"Course_ID": "M20467D",
+		"CourseTitle": "Designing Business Intelligence Solutions with Microsoft SQL Server 2014",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2014",
+		"Active": "Y",
+		"FinalPricce": "144362"
+	},
+	{
+		"Course_ID": "M10969",
+		"CourseTitle": "Active Directory Services with Windows Server",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2012",
+		"Active": "Y",
+		"FinalPricce": "145740"
+	},
+	{
+		"Course_ID": "QAPBA5",
+		"CourseTitle": "Practical Business Analysis (Premium)",
+		"CourseDuration": "5",
+		"CourseVendor": "Generic Business Systems Development",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "147364"
+	},
+	{
+		"Course_ID": "MAZ103",
+		"CourseTitle": "Microsoft Azure Administrator",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Azure",
+		"Active": "Y",
+		"FinalPricce": "147944"
+	},
+	{
+		"Course_ID": "QAHTMLCSS",
+		"CourseTitle": "Web Development Fundamentals - HTML and CSS",
+		"CourseDuration": "4",
+		"CourseVendor": "Internet Technologies",
+		"ProductName": "Web Site Development",
+		"Active": "Y",
+		"FinalPricce": "148428"
+	},
+	{
+		"Course_ID": "QACRISC",
+		"CourseTitle": "Certified in Risk and Information Systems Control (CRISC)",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Certifications",
+		"Active": "Y",
+		"FinalPricce": "148694"
+	},
+	{
+		"Course_ID": "M20745",
+		"CourseTitle": "Implementing a Software-Defined DataCenter",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Hyper-V",
+		"Active": "Y",
+		"FinalPricce": "149321"
+	},
+	{
+		"Course_ID": "MS030",
+		"CourseTitle": "Office 365 Administrator",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "150423"
+	},
+	{
+		"Course_ID": "MS100",
+		"CourseTitle": "Microsoft 365 Identity & Services",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "150423"
+	},
+	{
+		"Course_ID": "MS101",
+		"CourseTitle": "Microsoft 365 Mobility & Security",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "150423"
+	},
+	{
+		"Course_ID": "VMWARECAWS",
+		"CourseTitle": "VMware Cloud on AWS: Deploy and Manage 2019",
+		"CourseDuration": "3",
+		"CourseVendor": "VMWARE",
+		"ProductName": "VMware Cloud",
+		"Active": "Y",
+		"FinalPricce": "151164"
+	},
+	{
+		"Course_ID": "VMWAREWN67",
+		"CourseTitle": "VMware vSphere: What's New [V5.5 to V6.7]",
+		"CourseDuration": "3",
+		"CourseVendor": "VMWARE",
+		"ProductName": "VMware vSphere 6.0",
+		"Active": "Y",
+		"FinalPricce": "151164"
+	},
+	{
+		"Course_ID": "M10967",
+		"CourseTitle": "Fundamentals of a Windows Server Infrastructure",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2012",
+		"Active": "Y",
+		"FinalPricce": "152352"
+	},
+	{
+		"Course_ID": "M10972",
+		"CourseTitle": "Administering the Web Server (IIS) Role of Windows Server",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2012",
+		"Active": "Y",
+		"FinalPricce": "152352"
+	},
+	{
+		"Course_ID": "M40032",
+		"CourseTitle": "Microsoft Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Technology Associate",
+		"Active": "Y",
+		"FinalPricce": "152352"
+	},
+	{
+		"Course_ID": "M6433",
+		"CourseTitle": "Planning and Implementing Windows Server 2008",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2008",
+		"Active": "Y",
+		"FinalPricce": "152903"
+	},
+	{
+		"Course_ID": "QAJSFUND",
+		"CourseTitle": "Web Development Fundamentals - JavaScript",
+		"CourseDuration": "4",
+		"CourseVendor": "Internet Technologies",
+		"ProductName": "Web Site Development",
+		"Active": "Y",
+		"FinalPricce": "153216"
+	},
+	{
+		"Course_ID": "QAREACTJS",
+		"CourseTitle": "Developing Applications using ReactJS",
+		"CourseDuration": "4",
+		"CourseVendor": "Internet Technologies",
+		"ProductName": "Web Site Development",
+		"Active": "Y",
+		"FinalPricce": "153216"
+	},
+	{
+		"Course_ID": "QAUX",
+		"CourseTitle": "User Experience Fundamentals",
+		"CourseDuration": "4",
+		"CourseVendor": "Internet Technologies",
+		"ProductName": "Internet Technology Fundamentals",
+		"Active": "Y",
+		"FinalPricce": "153216"
+	},
+	{
+		"Course_ID": "MAZ400",
+		"CourseTitle": "Microsoft Azure DevOps Solutions",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Azure",
+		"Active": "Y",
+		"FinalPricce": "153729"
+	},
+	{
+		"Course_ID": "QASCACLAN",
+		"CourseTitle": "Secure desktop application development in C#",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Secure Developer",
+		"Active": "Y",
+		"FinalPricce": "153748"
+	},
+	{
+		"Course_ID": "QASCACPS",
+		"CourseTitle": "C and C++ secure coding",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Secure Developer",
+		"Active": "Y",
+		"FinalPricce": "153748"
+	},
+	{
+		"Course_ID": "QACPIA",
+		"CourseTitle": "CREST Practitioner Intrusion Analyst",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Incident Response",
+		"Active": "Y",
+		"FinalPricce": "154014"
+	},
+	{
+		"Course_ID": "QACPSA",
+		"CourseTitle": "CREST Practitioner Security Analyst",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Offensive Defence",
+		"Active": "Y",
+		"FinalPricce": "154014"
+	},
+	{
+		"Course_ID": "QACRPT",
+		"CourseTitle": "CREST Registered Penetration Tester",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Offensive Defence",
+		"Active": "Y",
+		"FinalPricce": "154014"
+	},
+	{
+		"Course_ID": "QACYSEC",
+		"CourseTitle": "Cyber Security Essentials Bootcamp",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Security Operations",
+		"Active": "Y",
+		"FinalPricce": "154546"
+	},
+	{
+		"Course_ID": "QASCAJWA",
+		"CourseTitle": "Certified Java and Web application security",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Secure Developer",
+		"Active": "Y",
+		"FinalPricce": "154546"
+	},
+	{
+		"Course_ID": "QASCANWA",
+		"CourseTitle": "Certified C# and Web application security",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Secure Developer",
+		"Active": "Y",
+		"FinalPricce": "154546"
+	},
+	{
+		"Course_ID": "MAZ300",
+		"CourseTitle": "Microsoft Azure Solutions Architect - Technologies",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Azure",
+		"Active": "Y",
+		"FinalPricce": "155107"
+	},
+	{
+		"Course_ID": "QAPYTH3",
+		"CourseTitle": "Python 3 Programming",
+		"CourseDuration": "4",
+		"CourseVendor": "Perl Python",
+		"ProductName": "Python 3",
+		"Active": "Y",
+		"FinalPricce": "156408"
+	},
+	{
+		"Course_ID": "M20334",
+		"CourseTitle": "Core Solutions of Microsoft Skype for Business 2015/2019",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Skype for Business",
+		"Active": "Y",
+		"FinalPricce": "157311"
+	},
+	{
+		"Course_ID": "GCPAGCP",
+		"CourseTitle": "Architecting with Google Compute Engine",
+		"CourseDuration": "3",
+		"CourseVendor": "Google",
+		"ProductName": "Google Cloud Platform",
+		"Active": "Y",
+		"FinalPricce": "159068"
+	},
+	{
+		"Course_ID": "GCPDA",
+		"CourseTitle": "Developing Applications with Google Cloud Platform",
+		"CourseDuration": "3",
+		"CourseVendor": "Google",
+		"ProductName": "Google Cloud Platform",
+		"Active": "Y",
+		"FinalPricce": "159068"
+	},
+	{
+		"Course_ID": "QARUBYPR",
+		"CourseTitle": "Ruby Programming",
+		"CourseDuration": "4",
+		"CourseVendor": "Ruby",
+		"ProductName": "Ruby",
+		"Active": "Y",
+		"FinalPricce": "160398"
+	},
+	{
+		"Course_ID": "QACESA",
+		"CourseTitle": "BCS Intermediate and Practitioner Certificate in Solution and Enterprise Architecture",
+		"CourseDuration": "5",
+		"CourseVendor": "BCS Enterprise Architecture",
+		"ProductName": "Advanced",
+		"Active": "Y",
+		"FinalPricce": "160930"
+	},
+	{
+		"Course_ID": "QACISMP",
+		"CourseTitle": "BCS Certificate in Information Security Management Principles",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Certifications",
+		"Active": "Y",
+		"FinalPricce": "162260"
+	},
+	{
+		"Course_ID": "QAMSPOWSH",
+		"CourseTitle": "Advanced Automated Administration with Windows PowerShell, PowerShell 5.0 and Desired State Configuration",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Powershell",
+		"Active": "Y",
+		"FinalPricce": "162526"
+	},
+	{
+		"Course_ID": "VMWAREDW65",
+		"CourseTitle": "VMware vSphere: Design Workshop [v6.5]",
+		"CourseDuration": "3",
+		"CourseVendor": "VMWARE",
+		"ProductName": "VMware vSphere 6.0",
+		"Active": "Y",
+		"FinalPricce": "164502"
+	},
+	{
+		"Course_ID": "QAICSGICSP",
+		"CourseTitle": "Securing ICS: Becoming a GICSP",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Security Operations",
+		"Active": "Y",
+		"FinalPricce": "165186"
+	},
+	{
+		"Course_ID": "QAJAVCSMIG",
+		"CourseTitle": "Migrating to C# 4.0 for Java and C++ developers",
+		"CourseDuration": "4",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Visual Studio 2010",
+		"Active": "Y",
+		"FinalPricce": "167580"
+	},
+	{
+		"Course_ID": "QAOSIDWBC",
+		"CourseTitle": "Open Source Intelligence Boot Camp",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Intelligence",
+		"Active": "Y",
+		"FinalPricce": "167846"
+	},
+	{
+		"Course_ID": "QAPUPPETESS",
+		"CourseTitle": "Puppet Essentials",
+		"CourseDuration": "4",
+		"CourseVendor": "DevOps",
+		"ProductName": "Puppet",
+		"Active": "Y",
+		"FinalPricce": "168378"
+	},
+	{
+		"Course_ID": "QALXBASH",
+		"CourseTitle": "Mastering Bash Scripts",
+		"CourseDuration": "4",
+		"CourseVendor": "Linux",
+		"ProductName": "LINUX",
+		"Active": "Y",
+		"FinalPricce": "168910"
+	},
+	{
+		"Course_ID": "AMWSA",
+		"CourseTitle": "Architecting on AWS",
+		"CourseDuration": "3",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "170430"
+	},
+	{
+		"Course_ID": "AMWSAA",
+		"CourseTitle": "Advanced Architecting on AWS",
+		"CourseDuration": "3",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "170430"
+	},
+	{
+		"Course_ID": "AMWSBD",
+		"CourseTitle": "Big Data on AWS",
+		"CourseDuration": "3",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "170430"
+	},
+	{
+		"Course_ID": "AMWSD",
+		"CourseTitle": "Developing on AWS",
+		"CourseDuration": "3",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "170430"
+	},
+	{
+		"Course_ID": "AMWSDE",
+		"CourseTitle": "DevOps Engineering on AWS",
+		"CourseDuration": "3",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "170430"
+	},
+	{
+		"Course_ID": "AMWSDW",
+		"CourseTitle": "Data Warehousing on AWS",
+		"CourseDuration": "3",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "170430"
+	},
+	{
+		"Course_ID": "AMWSSEC",
+		"CourseTitle": "Security Engineering on AWS",
+		"CourseDuration": "3",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "170430"
+	},
+	{
+		"Course_ID": "AMWSSO",
+		"CourseTitle": "Systems Operations on AWS",
+		"CourseDuration": "3",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "170430"
+	},
+	{
+		"Course_ID": "QAWCF10",
+		"CourseTitle": "Building Effective Windows Communication Foundation applications using Visual Studio 2010",
+		"CourseDuration": "4",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Visual Studio 2010",
+		"Active": "Y",
+		"FinalPricce": "170772"
+	},
+	{
+		"Course_ID": "QADMBIS",
+		"CourseTitle": "Developing A Modern Business Intelligence System",
+		"CourseDuration": "4",
+		"CourseVendor": "Database and Business Intelligence",
+		"ProductName": "Database and Business Intelligence",
+		"Active": "Y",
+		"FinalPricce": "171304"
+	},
+	{
+		"Course_ID": "ITIL4MPT",
+		"CourseTitle": "ITIL (R) 4 Managing Professional Transition Module",
+		"CourseDuration": "5",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "171511"
+	},
+	{
+		"Course_ID": "QAAWHACK",
+		"CourseTitle": "Advanced Web Hacking",
+		"CourseDuration": "3",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Offensive Defence",
+		"Active": "Y",
+		"FinalPricce": "173964"
+	},
+	{
+		"Course_ID": "QACADV",
+		"CourseTitle": "Advanced C Programming",
+		"CourseDuration": "4",
+		"CourseVendor": "C, C++, COBOL",
+		"ProductName": "C",
+		"Active": "Y",
+		"FinalPricce": "176092"
+	},
+	{
+		"Course_ID": "QACPROG",
+		"CourseTitle": "Programming in C",
+		"CourseDuration": "4",
+		"CourseVendor": "C, C++, COBOL",
+		"ProductName": "C",
+		"Active": "Y",
+		"FinalPricce": "176092"
+	},
+	{
+		"Course_ID": "QAAIHACK",
+		"CourseTitle": "Advanced Infrastructure Hacking",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Offensive Defence",
+		"Active": "Y",
+		"FinalPricce": "177688"
+	},
+	{
+		"Course_ID": "QATAOH",
+		"CourseTitle": "Certified in The Art of Hacking",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Offensive Defence",
+		"Active": "Y",
+		"FinalPricce": "177688"
+	},
+	{
+		"Course_ID": "M2041020411",
+		"CourseTitle": "Accelerated Installing Configuring and Administering Windows Server 2012",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Windows Server 2012",
+		"Active": "Y",
+		"FinalPricce": "181004"
+	},
+	{
+		"Course_ID": "QAPSDGEN",
+		"CourseTitle": "Professional Scrum Developer (Generic)",
+		"CourseDuration": "3",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Developer",
+		"Active": "Y",
+		"FinalPricce": "182476"
+	},
+	{
+		"Course_ID": "QAPSDNET",
+		"CourseTitle": "Professional Scrum Developer (.NET)",
+		"CourseDuration": "3",
+		"CourseVendor": "Agile and Scrum",
+		"ProductName": "Developer",
+		"Active": "Y",
+		"FinalPricce": "182476"
+	},
+	{
+		"Course_ID": "QASCALA",
+		"CourseTitle": "The Scala Programming Language",
+		"CourseDuration": "5",
+		"CourseVendor": "Scala",
+		"ProductName": "Scala",
+		"Active": "Y",
+		"FinalPricce": "184870"
+	},
+	{
+		"Course_ID": "PPMP2AGFP",
+		"CourseTitle": "PRINCE2 (R) Agile Foundation and Practitioner Certificates in Agile Project Management",
+		"CourseDuration": "5",
+		"CourseVendor": "PRINCE2 (R)",
+		"ProductName": "PRINCE2 (R) Agile",
+		"Active": "Y",
+		"FinalPricce": "189810"
+	},
+	{
+		"Course_ID": "QACS",
+		"CourseTitle": "The C# Programming Language",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Visual Studio 2015",
+		"Active": "Y",
+		"FinalPricce": "190190"
+	},
+	{
+		"Course_ID": "QALAMP",
+		"CourseTitle": "Developing and Delivering Dynamic Web Sites using Linux, Apache, MySQL and PHP",
+		"CourseDuration": "5",
+		"CourseVendor": "Linux",
+		"ProductName": "LINUX",
+		"Active": "Y",
+		"FinalPricce": "190190"
+	},
+	{
+		"Course_ID": "QAUXPRAC",
+		"CourseTitle": "User Experience Practitioner",
+		"CourseDuration": "5",
+		"CourseVendor": "Internet Technologies",
+		"ProductName": "User Experience",
+		"Active": "Y",
+		"FinalPricce": "190456"
+	},
+	{
+		"Course_ID": "QAWEBFORMS",
+		"CourseTitle": "Developing ASP .NET Web Forms Applications using Visual Studio",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Visual Studio 2015",
+		"Active": "Y",
+		"FinalPricce": "190988"
+	},
+	{
+		"Course_ID": "QAMEAN",
+		"CourseTitle": "Using NodeJS and the MEAN Stack",
+		"CourseDuration": "5",
+		"CourseVendor": "Internet Technologies",
+		"ProductName": "NodeJS",
+		"Active": "Y",
+		"FinalPricce": "193648"
+	},
+	{
+		"Course_ID": "ITILMALC",
+		"CourseTitle": "ITIL(R) Certificate in Managing Across the Lifecycle",
+		"CourseDuration": "5",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "194266"
+	},
+	{
+		"Course_ID": "QAANGULAR",
+		"CourseTitle": "Developing Applications using Angular",
+		"CourseDuration": "5",
+		"CourseVendor": "Internet Technologies",
+		"ProductName": "AngularJS",
+		"Active": "Y",
+		"FinalPricce": "195510"
+	},
+	{
+		"Course_ID": "QACRMDEV",
+		"CourseTitle": "Microsoft Dynamics CRM and  Dynamics 365 Fast Track for Developers",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Dynamics 365",
+		"Active": "Y",
+		"FinalPricce": "195510"
+	},
+	{
+		"Course_ID": "QALXESS-2",
+		"CourseTitle": "Linux System Fundamentals",
+		"CourseDuration": "5",
+		"CourseVendor": "Linux",
+		"ProductName": "LINUX",
+		"Active": "Y",
+		"FinalPricce": "195510"
+	},
+	{
+		"Course_ID": "QAMRCPPD",
+		"CourseTitle": "Modern Robust C++ Design",
+		"CourseDuration": "5",
+		"CourseVendor": "C, C++, COBOL",
+		"ProductName": "C++",
+		"Active": "Y",
+		"FinalPricce": "196840"
+	},
+	{
+		"Course_ID": "QAVB",
+		"CourseTitle": "The VB.NET Programming Language",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Visual Studio 2015",
+		"Active": "Y",
+		"FinalPricce": "196840"
+	},
+	{
+		"Course_ID": "QASCSVMGR12",
+		"CourseTitle": "Administering Microsoft System Center 2012 Service Manager",
+		"CourseDuration": "4",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft System Center 2012",
+		"Active": "Y",
+		"FinalPricce": "198170"
+	},
+	{
+		"Course_ID": "QAEDNF45",
+		"CourseTitle": "Enterprise Development using Microsoft .NET Framework 4.5",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft .NET 4.0",
+		"Active": "Y",
+		"FinalPricce": "198436"
+	},
+	{
+		"Course_ID": "QAASPNETMVC",
+		"CourseTitle": "Building Effective Websites using Microsoft MVC",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Visual Studio 2015",
+		"Active": "Y",
+		"FinalPricce": "198702"
+	},
+	{
+		"Course_ID": "QAWPF",
+		"CourseTitle": "Building WPF apps with Visual Studio, Unit Test and MVVM",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Visual Studio 2015",
+		"Active": "Y",
+		"FinalPricce": "198702"
+	},
+	{
+		"Course_ID": "QAASPOE",
+		"CourseTitle": "Mastering Sharepoint Online Design, Architecture and Best Practice Administration",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SharePoint 2013",
+		"Active": "Y",
+		"FinalPricce": "199234"
+	},
+	{
+		"Course_ID": "QASCAIFINT",
+		"CourseTitle": "Secure Coding Masterclass for Financial Services",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Secure Developer",
+		"Active": "Y",
+		"FinalPricce": "199500"
+	},
+	{
+		"Course_ID": "QASMTNET4",
+		"CourseTitle": "Developing Classic Windows Forms Applications using Visual Studio 2010 and .Net 4.0",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft .NET 4.0",
+		"Active": "Y",
+		"FinalPricce": "200564"
+	},
+	{
+		"Course_ID": "QAMOD365DEV",
+		"CourseTitle": "Mastering Modern SharePoint and Office 365 Development",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "200830"
+	},
+	{
+		"Course_ID": "QASDPM10",
+		"CourseTitle": "Managing Microsoft System Center Data Protection Manager 2010",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft System Center 2007",
+		"Active": "Y",
+		"FinalPricce": "201628"
+	},
+	{
+		"Course_ID": "QAOFF365GOV",
+		"CourseTitle": "Mastering GDPR, Governance Security and Compliance in Office 365",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft Office 365",
+		"Active": "Y",
+		"FinalPricce": "202692"
+	},
+	{
+		"Course_ID": "ITILCPPO",
+		"CourseTitle": "ITIL(R) Capability Certificate in Planning, Protection and Optimisation",
+		"CourseDuration": "5",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "203096"
+	},
+	{
+		"Course_ID": "QASCDATPM12",
+		"CourseTitle": "Managing Microsoft System Center Data Protection Manager 2012",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft System Center 2012",
+		"Active": "Y",
+		"FinalPricce": "204288"
+	},
+	{
+		"Course_ID": "QASCDATPM16",
+		"CourseTitle": "Installation, Configuration and Management of System Center Data Protection Manager 2016",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "204288"
+	},
+	{
+		"Course_ID": "QALXSA2",
+		"CourseTitle": "Linux System Administration",
+		"CourseDuration": "5",
+		"CourseVendor": "Linux",
+		"ProductName": "LINUX",
+		"Active": "Y",
+		"FinalPricce": "204554"
+	},
+	{
+		"Course_ID": "QAPHPADV",
+		"CourseTitle": "Developing Applications and Restful Services with PHP",
+		"CourseDuration": "5",
+		"CourseVendor": "Internet Technologies",
+		"ProductName": "Web Site Development",
+		"Active": "Y",
+		"FinalPricce": "205086"
+	},
+	{
+		"Course_ID": "QADMPPDS",
+		"CourseTitle": "Practical Data Science with Python",
+		"CourseDuration": "5",
+		"CourseVendor": "Database and Business Intelligence",
+		"ProductName": "Data Science and Machine Learning",
+		"Active": "Y",
+		"FinalPricce": "205352"
+	},
+	{
+		"Course_ID": "QADMSPBDA",
+		"CourseTitle": "Practical Big Data Analysis",
+		"CourseDuration": "5",
+		"CourseVendor": "Database and Business Intelligence",
+		"ProductName": "Data Science and Machine Learning",
+		"Active": "Y",
+		"FinalPricce": "205352"
+	},
+	{
+		"Course_ID": "QADMSPML",
+		"CourseTitle": "Practical Machine Learning",
+		"CourseDuration": "5",
+		"CourseVendor": "Database and Business Intelligence",
+		"ProductName": "Data Science and Machine Learning",
+		"Active": "Y",
+		"FinalPricce": "205352"
+	},
+	{
+		"Course_ID": "QAXAMARIN",
+		"CourseTitle": "Developing Cross-Platform Apps With C# Using Xamarin",
+		"CourseDuration": "5",
+		"CourseVendor": "Applications Programming",
+		"ProductName": "Xamarin",
+		"Active": "Y",
+		"FinalPricce": "205618"
+	},
+	{
+		"Course_ID": "GCPDEGP",
+		"CourseTitle": "Data Engineering on Google Cloud Platform",
+		"CourseDuration": "4",
+		"CourseVendor": "Google",
+		"ProductName": "Google Cloud Platform",
+		"Active": "Y",
+		"FinalPricce": "206100"
+	},
+	{
+		"Course_ID": "QADEVOPRAC2",
+		"CourseTitle": "DevOps Practitioner",
+		"CourseDuration": "5",
+		"CourseVendor": "DevOps",
+		"ProductName": "Devops",
+		"Active": "Y",
+		"FinalPricce": "206682"
+	},
+	{
+		"Course_ID": "QASQLBI16",
+		"CourseTitle": "Microsoft Business Intelligence End to End with SQL Server 2016",
+		"CourseDuration": "5",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft SQL Server 2016",
+		"Active": "Y",
+		"FinalPricce": "207746"
+	},
+	{
+		"Course_ID": "ITILCOSA",
+		"CourseTitle": "ITIL(R) Capability Certificate in Operational Support and Analysis",
+		"CourseDuration": "5",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "208190"
+	},
+	{
+		"Course_ID": "ITILCSOA",
+		"CourseTitle": "ITIL(R) Capability Certificate in Service Offerings and Agreements",
+		"CourseDuration": "5",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "208190"
+	},
+	{
+		"Course_ID": "ITILCRCV",
+		"CourseTitle": "ITIL(R) Capability Certificate in Release Control and Validation",
+		"CourseDuration": "5",
+		"CourseVendor": "ITIL",
+		"ProductName": "Intermediate",
+		"Active": "Y",
+		"FinalPricce": "208530"
+	},
+	{
+		"Course_ID": "QASCOPS16",
+		"CourseTitle": "Administering Microsoft System Center 2016 Operations Manager",
+		"CourseDuration": "4",
+		"CourseVendor": "Microsoft",
+		"ProductName": "Microsoft System Centre Ops Manager 2016",
+		"Active": "Y",
+		"FinalPricce": "209608"
+	},
+	{
+		"Course_ID": "QACPROGEX",
+		"CourseTitle": "C for Experienced Programmers",
+		"CourseDuration": "5",
+		"CourseVendor": "C, C++, COBOL",
+		"ProductName": "C",
+		"Active": "Y",
+		"FinalPricce": "219184"
+	},
+	{
+		"Course_ID": "QAMECPP",
+		"CourseTitle": "Modern Expressive C++",
+		"CourseDuration": "5",
+		"CourseVendor": "C, C++, COBOL",
+		"ProductName": "C++",
+		"Active": "Y",
+		"FinalPricce": "219184"
+	},
+	{
+		"Course_ID": "VMWAREICM67",
+		"CourseTitle": "VMware vSphere 6.7: Install, Configure, Manage",
+		"CourseDuration": "5",
+		"CourseVendor": "VMWARE",
+		"ProductName": "VMware vSphere 6.0",
+		"Active": "Y",
+		"FinalPricce": "242307"
+	},
+	{
+		"Course_ID": "QQPOLESTAR",
+		"CourseTitle": "Polestar IT Service Management In Action Simulation",
+		"CourseDuration": "1",
+		"CourseVendor": "ITIL",
+		"ProductName": "Overview",
+		"Active": "Y",
+		"FinalPricce": "245252"
+	},
+	{
+		"Course_ID": "VMWAREV710",
+		"CourseTitle": "VMware Horizon 7: Install, Configure, Manage [V7.10]",
+		"CourseDuration": "5",
+		"CourseVendor": "VMWARE",
+		"ProductName": "VMware view 7",
+		"Active": "Y",
+		"FinalPricce": "251940"
+	},
+	{
+		"Course_ID": "VMWAREV77",
+		"CourseTitle": "VMware Horizon 7: Install, Configure, Manage [V7.7]",
+		"CourseDuration": "5",
+		"CourseVendor": "VMWARE",
+		"ProductName": "VMware view 7",
+		"Active": "Y",
+		"FinalPricce": "251940"
+	},
+	{
+		"Course_ID": "AMWAA",
+		"CourseTitle": "Architecting on AWS Accelerator",
+		"CourseDuration": "4.5",
+		"CourseVendor": "Amazon",
+		"ProductName": "Amazon Web Services",
+		"Active": "Y",
+		"FinalPricce": "255235"
+	},
+	{
+		"Course_ID": "VMWAREOS65",
+		"CourseTitle": "VMware vSphere: Optimize and Scale [V6.5]",
+		"CourseDuration": "5",
+		"CourseVendor": "VMWARE",
+		"ProductName": "VMware vSphere 6.0",
+		"Active": "Y",
+		"FinalPricce": "271206"
+	},
+	{
+		"Course_ID": "QAOFFSECPWK",
+		"CourseTitle": "Penetration Testing with Kali Linux (PWK)",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Offensive Defence",
+		"Active": "Y",
+		"FinalPricce": "281960"
+	},
+	{
+		"Course_ID": "VMWAREFT67",
+		"CourseTitle": "VMware vSphere Fast Track v6.7",
+		"CourseDuration": "5",
+		"CourseVendor": "VMWARE",
+		"ProductName": "VMware vSphere 6.0",
+		"Active": "Y",
+		"FinalPricce": "369018"
+	},
+	{
+		"Course_ID": "QAOFFSECAWE",
+		"CourseTitle": "Advanced Windows Exploitation (AWE)",
+		"CourseDuration": "5",
+		"CourseVendor": "Cyber",
+		"ProductName": "Cyber Offensive Defence",
+		"Active": "Y",
+		"FinalPricce": "381710"
+	},
+	{
+		"Course_ID": "QADPDGWR",
+		"CourseTitle": "Digital Product Developer - Work Release",
+		"CourseDuration": "20",
+		"CourseVendor": "Inspire",
+		"ProductName": "Digital Product Developer",
+		"Active": "Y",
+		"FinalPricce": "545566"
+	},
+	{
+		"Course_ID": "QADPOGWR",
+		"CourseTitle": "Digital Product Owner - Work Release",
+		"CourseDuration": "20",
+		"CourseVendor": "Inspire",
+		"ProductName": "Digital Product Developer",
+		"Active": "Y",
+		"FinalPricce": "545566"
+	},
+	{
+		"Course_ID": "QADPDGFT",
+		"CourseTitle": "Digital Product Developer - Fast Track",
+		"CourseDuration": "20",
+		"CourseVendor": "Inspire",
+		"ProductName": "Digital Product Developer",
+		"Active": "Y",
+		"FinalPricce": "670586"
+	},
+	{
+		"Course_ID": "QADPOGFT",
+		"CourseTitle": "Digital Product Owner - Fast Track",
+		"CourseDuration": "20",
+		"CourseVendor": "Inspire",
+		"ProductName": "Digital Product Developer",
+		"Active": "Y",
+		"FinalPricce": "670586"
+	}
+]
