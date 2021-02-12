@@ -327,19 +327,18 @@
         <div class="circle bodycircle"></div>
         <div class="circle bodycircle"></div>
         <div class="circle bodycircle"></div>
-        <img class="circle"
-            src="https://www.pngkit.com/png/full/213-2130256_pin-snake-head-clipart-snake-head-cartoon-png.png" alt="">
-    </div>
+        <div class="circle head">
+        </div>
 </body>
 
 <script>
+    document.body.addEventListener("touchmove", (e) => {
+        // e.preventDefault();
+        gsap.to(".circle", { x: e.clientX, y: e.clientY, stagger: -0.01 });
+    });
     document.body.addEventListener("mousemove", (e) => {
         gsap.to(".circle", { x: e.clientX, y: e.clientY, stagger: -0.01 });
     });
-    document.body.addEventListener("touchmove", (e) => {
-        gsap.to(".circle", { x: e.clientX, y: e.clientY, stagger: -0.01 });
-    });
-
 </script>
 
 </html>

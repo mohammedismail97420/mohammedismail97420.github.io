@@ -31,7 +31,8 @@ body {
   background: linear-gradient(#0f8655, #a0cc2e);
 }
 
-img {
-  width: 150px !important;
-  height: 150px !important;
+.head {
+  background-image: url("https://www.pngkit.com/png/full/213-2130256_pin-snake-head-clipart-snake-head-cartoon-png.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
