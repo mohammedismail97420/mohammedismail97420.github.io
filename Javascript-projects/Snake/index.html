@@ -330,7 +330,7 @@
 </body>
 
 <script>
-    document.body.addEventListener("mousemove", (e) => {
+    document.body.addEventListener("mousemove touchmove", (e) => {
         gsap.to(".circle", { x: e.clientX, y: e.clientY, stagger: -0.01 });
     });
 
