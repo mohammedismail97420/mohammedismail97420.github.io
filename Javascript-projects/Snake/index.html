@@ -5,7 +5,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animation GSAP</title>
+    <link rel="shortcut icon"
+        href="https://www.pngkit.com/png/full/213-2130256_pin-snake-head-clipart-snake-head-cartoon-png.png"
+        type="image/x-icon">
+    <title>Snake Animation GSAP</title>
     <link rel="stylesheet" href="styles.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/gsap.min.js"></script>
 </head>
@@ -330,7 +333,10 @@
 </body>
 
 <script>
-    document.body.addEventListener("mousemove touchmove", (e) => {
+    document.body.addEventListener("mousemove", (e) => {
+        gsap.to(".circle", { x: e.clientX, y: e.clientY, stagger: -0.01 });
+    });
+    document.body.addEventListener("touchmove", (e) => {
         gsap.to(".circle", { x: e.clientX, y: e.clientY, stagger: -0.01 });
     });
 
