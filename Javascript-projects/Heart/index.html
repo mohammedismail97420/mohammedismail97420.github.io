@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentines Day Anime.js</title>
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+    <script src="anime.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1>“Happy Valentines Day”</h1>
+        <div class="heart"></div>
+    </div>
+</body>
+
+<script>
+    const container = document.querySelector(".container");
+    for (var i = 1; i <= 200; i++) {
+        const hearts = document.createElement('div');
+        hearts.classList.add("heart");
+        container.appendChild(hearts)
+    }
+    function animateHearts() {
+        anime({
+            targets: '.heart',
+            translateX: function () {
+                return anime.random(-700, 700)
+            },
+            translateY: function () {
+                return anime.random(-500, 500)
+            },
+            rotate: 45,
+            scale: function () {
+                return anime.random(1, 3)
+            },
+            easing: 'easeInOutBack',
+            duration: 3000,
+            delay: anime.stagger(10),
+            complete: animateHearts,
+        })
+    }
+    animateHearts();
+</script>
+
+</html>
