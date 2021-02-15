@@ -38,3 +38,17 @@ body {
   background-repeat: no-repeat;
   transform: scale(1.5);
 }
+
+.tag {
+  position: absolute;
+  top: 10px;
+  left: -25px;
+  background-color: yellow;
+  padding: 5px;
+  text-decoration: none;
+  color: grey;
+  transform: rotate(-45deg);
+  width: 100px;
+  padding-left: 25px;
+  z-index: 5;
+}
