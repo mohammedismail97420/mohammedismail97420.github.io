@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap");
+body {
+  background: linear-gradient(
+    90deg,
+    rgba(224, 224, 224, 1) 0%,
+    rgba(77, 82, 98, 0.6) 100%
+  );
+  font-family: "Signika", sans-serif;
+}
+.time {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  height: 50px;
+  width: 623px;
+  /* background-color: #fff; */
+  padding: 0px 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+ul.numbers {
+  list-style-type: none;
+  padding: 0;
+  position: relative;
+  display: inline-block;
+  transition: all ease 0.5s;
+  margin: 0px;
+  border-radius: 5px;
+  background: linear-gradient(
+    0deg,
+    rgba(77, 82, 98, 0.7) 0%,
+    rgba(77, 82, 98, 0.5) 100%
+  );
+  box-shadow: 6px 16px 10px 5px rgba(0, 0, 0, 0.3),
+    -6px -6px 10px 3px rgba(255, 255, 255, 0.5) !important;
+}
+ul.numbers li {
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  line-height: 50px;
+  font-weight: 800;
+}
+ul.numbers.hoursFirst,
+ul.numbers.hoursLast {
+  color: #fff;
+}
+ul.numbers.minutesFirst,
+ul.numbers.minutesLast {
+  color: #fff;
+}
+ul.numbers.secondsFirst,
+ul.numbers.secondsLast {
+  color: #fff;
+}
+/*link*/
+.info {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  text-align: center;
+  color: #fff;
+  width: 150px;
+  font-size: 1.2rem;
+}
+.info a {
+  margin-top: 20px;
+  font-size: 3rem;
+  display: block;
+  color: red;
+}
+
+.time div {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: rgba(2, 2, 2, 0.15);
+  mix-blend-mode: overlay;
+  position: absolute;
+  z-index: 2000;
+  box-shadow: -5px -5px 10px 0px rgb(255, 255, 255),
+    5px 5px 15px 5px rgba(0, 0, 0, 0.5) !important;
+}
+
+.time div:nth-child(1) {
+  top: -4px;
+  left: 5px;
+}
+.time div:nth-child(2) {
+  top: -4px;
+  left: 89px;
+}
+.time div:nth-child(3) {
+  top: -4px;
+  left: 214px;
+}
+.time div:nth-child(4) {
+  top: -4px;
+  left: 298px;
+}
+.time div:nth-child(5) {
+  top: -4px;
+  left: 422px;
+}
+.time div:nth-child(6) {
+  top: -4px;
+  left: 506px;
+  animation: scale 1s infinite;
+}
+
+ul.numbers:nth-child(even) {
+  margin-right: 70px !important;
+}
+ul.numbers:nth-child(odd) {
+  margin-right: 30px !important;
+}
+
+@keyframes scale {
+  0% {
+    transform: scale(0.8);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.tag {
+  position: absolute;
+  top: 10px;
+  left: -25px;
+  background-color: yellow;
+  padding: 5px;
+  text-decoration: none;
+  color: grey;
+  transform: rotate(-45deg);
+  width: 100px;
+  padding-left: 25px;
+}
